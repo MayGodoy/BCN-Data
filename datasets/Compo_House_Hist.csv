@@ -1,0 +1,1315 @@
+Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Nationality,Amount,Average_Age
+2019,1,Ciutat Vella,1,el Raval,Spaniards,8025,50.2523276843727
+2019,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3105,51.082465124492295
+2019,1,Ciutat Vella,3,la Barceloneta,Spaniards,3896,50.566525871172104
+2019,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Spaniards,5305,49.72803863146
+2019,2,Eixample,5,el Fort Pienc,Spaniards,9533,49.02229360437239
+2019,2,Eixample,6,la Sagrada Família,Spaniards,16592,49.8878350749659
+2019,2,Eixample,7,la Dreta de l'Eixample,Spaniards,13111,48.4362871252695
+2019,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Spaniards,13222,48.713241814763606
+2019,2,Eixample,9,la Nova Esquerra de l'Eixample,Spaniards,19127,49.3311451495259
+2019,2,Eixample,10,Sant Antoni,Spaniards,12086,50.3818109452736
+2019,3,Sants-Montjuïc,11,el Poble Sec,Spaniards,10332,49.6987836870975
+2019,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Spaniards,408,44.725552050473205
+2019,3,Sants-Montjuïc,13,la Marina de Port,Spaniards,9848,47.10448997384479
+2019,3,Sants-Montjuïc,14,la Font de la Guatlla,Spaniards,3298,49.9654251581167
+2019,3,Sants-Montjuïc,15,Hostafrancs,Spaniards,4877,48.4509083880943
+2019,3,Sants-Montjuïc,16,la Bordeta,Spaniards,6543,48.4970217950453
+2019,3,Sants-Montjuïc,17,Sants - Badal,Spaniards,7978,49.344815628251105
+2019,3,Sants-Montjuïc,18,Sants,Spaniards,13643,48.390780190424
+2019,4,Les Corts,19,les Corts,Spaniards,16240,48.5653349191761
+2019,4,Les Corts,20,la Maternitat i Sant Ramon,Spaniards,8226,48.97171145686
+2019,4,Les Corts,21,Pedralbes,Spaniards,3293,46.8991784037559
+2019,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Spaniards,1233,41.8032589016294
+2019,5,Sarrià-Sant Gervasi,23,Sarrià,Spaniards,7236,44.495000264536294
+2019,5,Sarrià-Sant Gervasi,24,les Tres Torres,Spaniards,4742,43.610007468259894
+2019,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Spaniards,7848,45.0514060187469
+2019,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Spaniards,15201,45.8683185457693
+2019,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Spaniards,9869,45.67818451860911
+2019,6,Gràcia,28,Vallcarca i els Penitents,Spaniards,5305,47.224106551952296
+2019,6,Gràcia,29,el Coll,Spaniards,2508,46.906441165887
+2019,6,Gràcia,30,la Salut,Spaniards,4461,48.367310372287506
+2019,6,Gràcia,31,la Vila de Gràcia,Spaniards,16748,47.060770103902904
+2019,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Spaniards,12163,48.505392212509896
+2019,7,Horta-Guinardó,33,el Baix Guinardó,Spaniards,8897,49.852119436164294
+2019,7,Horta-Guinardó,34,Can Baró,Spaniards,3125,48.519020550940105
+2019,7,Horta-Guinardó,35,el Guinardó,Spaniards,12612,48.1217104069113
+2019,7,Horta-Guinardó,36,la Font d'en Fargues,Spaniards,3379,46.6029482841953
+2019,7,Horta-Guinardó,37,el Carmel,Spaniards,10582,48.124230624293396
+2019,7,Horta-Guinardó,38,la Teixonera,Spaniards,3988,47.6370362067033
+2019,7,Horta-Guinardó,39,Sant Genís dels Agudells,Spaniards,2440,49.8953726073221
+2019,7,Horta-Guinardó,40,Montbau,Spaniards,1829,50.24743326488711
+2019,7,Horta-Guinardó,41,la Vall d'Hebron,Spaniards,2118,48.3029045643154
+2019,7,Horta-Guinardó,42,la Clota,Spaniards,240,40.4918625678119
+2019,7,Horta-Guinardó,43,Horta,Spaniards,9364,48.6477193633706
+2019,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Spaniards,8917,49.6867384599828
+2019,8,Nou Barris,45,Porta,Spaniards,8564,50.03673733613849
+2019,8,Nou Barris,46,el Turó de la Peira,Spaniards,4797,50.512564305500604
+2019,8,Nou Barris,47,Can Peguera,Spaniards,822,47.3294956140351
+2019,8,Nou Barris,48,la Guineueta,Spaniards,5606,49.6767872356905
+2019,8,Nou Barris,49,Canyelles,Spaniards,2634,49.14929714008721
+2019,8,Nou Barris,50,les Roquetes,Spaniards,4596,46.026961470286395
+2019,8,Nou Barris,51,Verdun,Spaniards,4056,49.2110670091058
+2019,8,Nou Barris,52,la Prosperitat,Spaniards,9060,49.61494367460871
+2019,8,Nou Barris,53,la Trinitat Nova,Spaniards,2299,47.262164846077496
+2019,8,Nou Barris,54,Torre Baró,Spaniards,748,41.6080200501253
+2019,8,Nou Barris,55,Ciutat Meridiana,Spaniards,2542,48.036034482758595
+2019,8,Nou Barris,56,Vallbona,Spaniards,385,44.55489614243321
+2019,9,Sant Andreu,57,la Trinitat Vella,Spaniards,2413,45.634700763629894
+2019,9,Sant Andreu,58,Baró de Viver,Spaniards,818,44.0128600823045
+2019,9,Sant Andreu,59,el Bon Pastor,Spaniards,3793,43.5235774080746
+2019,9,Sant Andreu,60,Sant Andreu,Spaniards,21361,46.243429425668204
+2019,9,Sant Andreu,61,la Sagrera,Spaniards,10013,48.8977156343234
+2019,9,Sant Andreu,62,el Congrés i els Indians,Spaniards,4954,48.388222364685404
+2019,9,Sant Andreu,63,Navas,Spaniards,7507,49.2961185434039
+2019,10,Sant Martí,64,el Camp de l'Arpa del Clot,Spaniards,12919,49.356467104787995
+2019,10,Sant Martí,65,el Clot,Spaniards,8792,46.9397095496553
+2019,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Spaniards,4791,48.1065321805956
+2019,10,Sant Martí,67,la Vila Olímpica del Poblenou,Spaniards,2640,43.8959174517721
+2019,10,Sant Martí,68,el Poblenou,Spaniards,10344,44.6778551301177
+2019,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Spaniards,4136,42.550270490966604
+2019,10,Sant Martí,70,el Besòs i el Maresme,Spaniards,6181,48.45260832383121
+2019,10,Sant Martí,71,Provençals del Poblenou,Spaniards,6769,45.27488828202579
+2019,10,Sant Martí,72,Sant Martí de Provençals,Spaniards,9145,49.4645879949411
+2019,10,Sant Martí,73,la Verneda i la Pau,Spaniards,9898,49.7551852663889
+2019,1,Ciutat Vella,1,el Raval,Foreigners,5604,31.8813147461312
+2019,1,Ciutat Vella,2,el Barri Gòtic,Foreigners,2336,32.8286259541985
+2019,1,Ciutat Vella,3,la Barceloneta,Foreigners,2130,32.944364851958
+2019,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Foreigners,3291,33.1093497724938
+2019,2,Eixample,5,el Fort Pienc,Foreigners,1696,31.961462666958603
+2019,2,Eixample,6,la Sagrada Família,Foreigners,2684,32.3953873982514
+2019,2,Eixample,7,la Dreta de l'Eixample,Foreigners,3131,33.0868876080692
+2019,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Foreigners,2662,33.3233264320221
+2019,2,Eixample,9,la Nova Esquerra de l'Eixample,Foreigners,2768,33.016761448668106
+2019,2,Eixample,10,Sant Antoni,Foreigners,2017,32.799068142108304
+2019,3,Sants-Montjuïc,11,el Poble Sec,Foreigners,2903,32.400320256205
+2019,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Foreigners,21,34.3454545454545
+2019,3,Sants-Montjuïc,13,la Marina de Port,Foreigners,926,31.2675573826653
+2019,3,Sants-Montjuïc,14,la Font de la Guatlla,Foreigners,465,32.6083860759494
+2019,3,Sants-Montjuïc,15,Hostafrancs,Foreigners,916,32.018402342116296
+2019,3,Sants-Montjuïc,16,la Bordeta,Foreigners,518,31.9849279161206
+2019,3,Sants-Montjuïc,17,Sants - Badal,Foreigners,896,31.6854707792208
+2019,3,Sants-Montjuïc,18,Sants,Foreigners,1552,32.410127851591895
+2019,4,Les Corts,19,les Corts,Foreigners,1365,33.0676714856967
+2019,4,Les Corts,20,la Maternitat i Sant Ramon,Foreigners,634,31.714801444043303
+2019,4,Les Corts,21,Pedralbes,Foreigners,471,33.8353566009105
+2019,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Foreigners,160,33.06038647343
+2019,5,Sarrià-Sant Gervasi,23,Sarrià,Foreigners,769,32.1821801891488
+2019,5,Sarrià-Sant Gervasi,24,les Tres Torres,Foreigners,346,33.824940047961604
+2019,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Foreigners,726,32.5701598579041
+2019,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Foreigners,1625,33.6071820175439
+2019,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Foreigners,1194,33.3718298868513
+2019,6,Gràcia,28,Vallcarca i els Penitents,Foreigners,583,32.987796123474496
+2019,6,Gràcia,29,el Coll,Foreigners,261,32.2091194968553
+2019,6,Gràcia,30,la Salut,Foreigners,447,32.414258188824704
+2019,6,Gràcia,31,la Vila de Gràcia,Foreigners,3391,32.6221615406726
+2019,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Foreigners,1309,32.3493536625787
+2019,7,Horta-Guinardó,33,el Baix Guinardó,Foreigners,837,32.864839319470704
+2019,7,Horta-Guinardó,34,Can Baró,Foreigners,332,30.618713450292397
+2019,7,Horta-Guinardó,35,el Guinardó,Foreigners,1124,32.2845117845118
+2019,7,Horta-Guinardó,36,la Font d'en Fargues,Foreigners,123,32.5387096774194
+2019,7,Horta-Guinardó,37,el Carmel,Foreigners,961,31.8142614601019
+2019,7,Horta-Guinardó,38,la Teixonera,Foreigners,367,31.3309644670051
+2019,7,Horta-Guinardó,39,Sant Genís dels Agudells,Foreigners,191,32.6613475177305
+2019,7,Horta-Guinardó,40,Montbau,Foreigners,130,31.123036649214697
+2019,7,Horta-Guinardó,41,la Vall d'Hebron,Foreigners,96,30.6989247311828
+2019,7,Horta-Guinardó,42,la Clota,Foreigners,17,30.4912280701754
+2019,7,Horta-Guinardó,43,Horta,Foreigners,494,32.3887733887734
+2019,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Foreigners,611,32.1205357142857
+2019,8,Nou Barris,45,Porta,Foreigners,650,31.777671755725198
+2019,8,Nou Barris,46,el Turó de la Peira,Foreigners,548,31.6085526315789
+2019,8,Nou Barris,47,Can Peguera,Foreigners,35,33.2427184466019
+2019,8,Nou Barris,48,la Guineueta,Foreigners,188,32.3563579277865
+2019,8,Nou Barris,49,Canyelles,Foreigners,52,32.0225988700565
+2019,8,Nou Barris,50,les Roquetes,Foreigners,621,30.663461538461497
+2019,8,Nou Barris,51,Verdun,Foreigners,448,30.005960264900697
+2019,8,Nou Barris,52,la Prosperitat,Foreigners,676,31.2297181895816
+2019,8,Nou Barris,53,la Trinitat Nova,Foreigners,261,30.571875
+2019,8,Nou Barris,54,Torre Baró,Foreigners,84,31.4903474903475
+2019,8,Nou Barris,55,Ciutat Meridiana,Foreigners,520,29.6164669098489
+2019,8,Nou Barris,56,Vallbona,Foreigners,42,33.3333333333333
+2019,9,Sant Andreu,57,la Trinitat Vella,Foreigners,518,30.5767543859649
+2019,9,Sant Andreu,58,Baró de Viver,Foreigners,51,29.58125
+2019,9,Sant Andreu,59,el Bon Pastor,Foreigners,253,30.917537746806
+2019,9,Sant Andreu,60,Sant Andreu,Foreigners,843,32.8197351559163
+2019,9,Sant Andreu,61,la Sagrera,Foreigners,665,32.3176645225136
+2019,9,Sant Andreu,62,el Congrés i els Indians,Foreigners,372,32.0
+2019,9,Sant Andreu,63,Navas,Foreigners,624,32.2272974442632
+2019,10,Sant Martí,64,el Camp de l'Arpa del Clot,Foreigners,1592,32.4089237558225
+2019,10,Sant Martí,65,el Clot,Foreigners,898,33.0991027732463
+2019,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Foreigners,795,32.368609406953
+2019,10,Sant Martí,67,la Vila Olímpica del Poblenou,Foreigners,455,33.5402405180388
+2019,10,Sant Martí,68,el Poblenou,Foreigners,1751,32.672517432075
+2019,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Foreigners,764,33.2475143903715
+2019,10,Sant Martí,70,el Besòs i el Maresme,Foreigners,1141,31.2140491958373
+2019,10,Sant Martí,71,Provençals del Poblenou,Foreigners,712,31.8388408744281
+2019,10,Sant Martí,72,Sant Martí de Provençals,Foreigners,636,32.2712121212121
+2019,10,Sant Martí,73,la Verneda i la Pau,Foreigners,643,32.170902716915
+2019,1,Ciutat Vella,1,el Raval,Mixed,3658,34.0760857304005
+2019,1,Ciutat Vella,2,el Barri Gòtic,Mixed,1175,35.5632475534614
+2019,1,Ciutat Vella,3,la Barceloneta,Mixed,936,36.850396010560296
+2019,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Mixed,1673,33.59163647343
+2019,2,Eixample,5,el Fort Pienc,Mixed,1596,37.062707641196
+2019,2,Eixample,6,la Sagrada Família,Mixed,2704,36.3845542192625
+2019,2,Eixample,7,la Dreta de l'Eixample,Mixed,2337,38.4163830536322
+2019,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Mixed,2373,36.664438356164396
+2019,2,Eixample,9,la Nova Esquerra de l'Eixample,Mixed,2906,36.5697137580794
+2019,2,Eixample,10,Sant Antoni,Mixed,2194,36.2544028950543
+2019,3,Sants-Montjuïc,11,el Poble Sec,Mixed,2750,34.586945606694606
+2019,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Mixed,33,36.27461139896371
+2019,3,Sants-Montjuïc,13,la Marina de Port,Mixed,1223,34.4561973986228
+2019,3,Sants-Montjuïc,14,la Font de la Guatlla,Mixed,516,37.4277833500501
+2019,3,Sants-Montjuïc,15,Hostafrancs,Mixed,886,34.8726580796253
+2019,3,Sants-Montjuïc,16,la Bordeta,Mixed,789,34.977091950365896
+2019,3,Sants-Montjuïc,17,Sants - Badal,Mixed,1157,35.2347068819031
+2019,3,Sants-Montjuïc,18,Sants,Mixed,1948,35.3252219664584
+2019,4,Les Corts,19,les Corts,Mixed,1604,37.73796033994329
+2019,4,Les Corts,20,la Maternitat i Sant Ramon,Mixed,858,35.9953717988275
+2019,4,Les Corts,21,Pedralbes,Mixed,442,38.8293246993525
+2019,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Mixed,226,38.5555555555556
+2019,5,Sarrià-Sant Gervasi,23,Sarrià,Mixed,871,37.893778093210294
+2019,5,Sarrià-Sant Gervasi,24,les Tres Torres,Mixed,514,37.7478545157336
+2019,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Mixed,886,37.9214268498433
+2019,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Mixed,1923,37.652899343544895
+2019,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Mixed,1252,35.8391402714932
+2019,6,Gràcia,28,Vallcarca i els Penitents,Mixed,667,35.971912432879
+2019,6,Gràcia,29,el Coll,Mixed,361,35.042296072507604
+2019,6,Gràcia,30,la Salut,Mixed,545,35.9501491265445
+2019,6,Gràcia,31,la Vila de Gràcia,Mixed,2706,35.7083069787055
+2019,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Mixed,1481,35.8912250217202
+2019,7,Horta-Guinardó,33,el Baix Guinardó,Mixed,1112,35.9380053908356
+2019,7,Horta-Guinardó,34,Can Baró,Mixed,429,34.5088177661659
+2019,7,Horta-Guinardó,35,el Guinardó,Mixed,1730,35.3558309690906
+2019,7,Horta-Guinardó,36,la Font d'en Fargues,Mixed,244,35.5217391304348
+2019,7,Horta-Guinardó,37,el Carmel,Mixed,1336,33.1107162895081
+2019,7,Horta-Guinardó,38,la Teixonera,Mixed,496,34.1024960169942
+2019,7,Horta-Guinardó,39,Sant Genís dels Agudells,Mixed,317,34.8605935127674
+2019,7,Horta-Guinardó,40,Montbau,Mixed,188,45.2315325248071
+2019,7,Horta-Guinardó,41,la Vall d'Hebron,Mixed,155,43.8196022727273
+2019,7,Horta-Guinardó,42,la Clota,Mixed,23,33.6842105263158
+2019,7,Horta-Guinardó,43,Horta,Mixed,800,35.4318181818182
+2019,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Mixed,992,35.0892682926829
+2019,8,Nou Barris,45,Porta,Mixed,1044,34.4486833220797
+2019,8,Nou Barris,46,el Turó de la Peira,Mixed,897,33.1127665039815
+2019,8,Nou Barris,47,Can Peguera,Mixed,78,31.05625
+2019,8,Nou Barris,48,la Guineueta,Mixed,416,35.682702702702706
+2019,8,Nou Barris,49,Canyelles,Mixed,124,35.23166023166021
+2019,8,Nou Barris,50,les Roquetes,Mixed,774,32.2172094412907
+2019,8,Nou Barris,51,Verdun,Mixed,590,33.5635491606715
+2019,8,Nou Barris,52,la Prosperitat,Mixed,1034,33.0997742663657
+2019,8,Nou Barris,53,la Trinitat Nova,Mixed,364,32.4110769230769
+2019,8,Nou Barris,54,Torre Baró,Mixed,144,31.6454948301329
+2019,8,Nou Barris,55,Ciutat Meridiana,Mixed,650,30.913513513513497
+2019,8,Nou Barris,56,Vallbona,Mixed,59,31.709219858156
+2019,9,Sant Andreu,57,la Trinitat Vella,Mixed,613,32.3844552394171
+2019,9,Sant Andreu,58,Baró de Viver,Mixed,123,32.31
+2019,9,Sant Andreu,59,el Bon Pastor,Mixed,444,34.6283592644979
+2019,9,Sant Andreu,60,Sant Andreu,Mixed,1623,35.7692433404151
+2019,9,Sant Andreu,61,la Sagrera,Mixed,1214,35.1773669240146
+2019,9,Sant Andreu,62,el Congrés i els Indians,Mixed,621,35.683320220299
+2019,9,Sant Andreu,63,Navas,Mixed,932,35.982763192787104
+2019,10,Sant Martí,64,el Camp de l'Arpa del Clot,Mixed,1908,36.2257264839554
+2019,10,Sant Martí,65,el Clot,Mixed,1117,35.3902553291169
+2019,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Mixed,797,33.4819241111443
+2019,10,Sant Martí,67,la Vila Olímpica del Poblenou,Mixed,430,34.6632911392405
+2019,10,Sant Martí,68,el Poblenou,Mixed,1605,35.009015138628996
+2019,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Mixed,520,34.0245174752217
+2019,10,Sant Martí,70,el Besòs i el Maresme,Mixed,1025,32.7446875
+2019,10,Sant Martí,71,Provençals del Poblenou,Mixed,831,34.8951612903226
+2019,10,Sant Martí,72,Sant Martí de Provençals,Mixed,890,36.7570247933884
+2019,10,Sant Martí,73,la Verneda i la Pau,Mixed,914,35.216807165437295
+2018,1,Ciutat Vella,1,el Raval,Spaniards,8391,49.9
+2018,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3268,50.8
+2018,1,Ciutat Vella,3,la Barceloneta,Spaniards,4058,50.1
+2018,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Spaniards,5526,49.4
+2018,2,Eixample,5,el Fort Pienc,Spaniards,9738,49.0
+2018,2,Eixample,6,la Sagrada Família,Spaniards,16973,49.7
+2018,2,Eixample,7,la Dreta de l'Eixample,Spaniards,13379,48.1
+2018,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Spaniards,13572,48.4
+2018,2,Eixample,9,la Nova Esquerra de l'Eixample,Spaniards,19425,49.0
+2018,2,Eixample,10,Sant Antoni,Spaniards,12387,50.2
+2018,3,Sants-Montjuïc,11,el Poble Sec,Spaniards,10637,49.4
+2018,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Spaniards,413,44.9
+2018,3,Sants-Montjuïc,13,la Marina de Port,Spaniards,9963,46.6
+2018,3,Sants-Montjuïc,14,la Font de la Guatlla,Spaniards,3361,49.5
+2018,3,Sants-Montjuïc,15,Hostafrancs,Spaniards,4981,48.1
+2018,3,Sants-Montjuïc,16,la Bordeta,Spaniards,6515,48.3
+2018,3,Sants-Montjuïc,17,Sants - Badal,Spaniards,8026,49.2
+2018,3,Sants-Montjuïc,18,Sants,Spaniards,13872,48.0
+2018,4,Les Corts,19,les Corts,Spaniards,16351,48.3
+2018,4,Les Corts,20,la Maternitat i Sant Ramon,Spaniards,8330,48.6
+2018,4,Les Corts,21,Pedralbes,Spaniards,3342,46.7
+2018,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Spaniards,1248,41.2
+2018,5,Sarrià-Sant Gervasi,23,Sarrià,Spaniards,7378,44.1
+2018,5,Sarrià-Sant Gervasi,24,les Tres Torres,Spaniards,4789,43.1
+2018,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Spaniards,7890,44.7
+2018,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Spaniards,15422,45.7
+2018,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Spaniards,10013,45.4
+2018,6,Gràcia,28,Vallcarca i els Penitents,Spaniards,5335,47.1
+2018,6,Gràcia,29,el Coll,Spaniards,2550,46.6
+2018,6,Gràcia,30,la Salut,Spaniards,4494,48.3
+2018,6,Gràcia,31,la Vila de Gràcia,Spaniards,17061,47.0
+2018,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Spaniards,12369,48.3
+2018,7,Horta-Guinardó,33,el Baix Guinardó,Spaniards,9021,49.4
+2018,7,Horta-Guinardó,34,Can Baró,Spaniards,3159,48.2
+2018,7,Horta-Guinardó,35,el Guinardó,Spaniards,12777,47.8
+2018,7,Horta-Guinardó,36,la Font d'en Fargues,Spaniards,3364,46.4
+2018,7,Horta-Guinardó,37,el Carmel,Spaniards,10771,47.8
+2018,7,Horta-Guinardó,38,la Teixonera,Spaniards,4030,47.3
+2018,7,Horta-Guinardó,39,Sant Genís dels Agudells,Spaniards,2458,50.2
+2018,7,Horta-Guinardó,40,Montbau,Spaniards,1857,51.9
+2018,7,Horta-Guinardó,41,la Vall d'Hebron,Spaniards,2119,48.1
+2018,7,Horta-Guinardó,42,la Clota,Spaniards,235,40.5
+2018,7,Horta-Guinardó,43,Horta,Spaniards,9451,48.4
+2018,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Spaniards,9016,49.4
+2018,8,Nou Barris,45,Porta,Spaniards,8675,49.7
+2018,8,Nou Barris,46,el Turó de la Peira,Spaniards,4851,50.6
+2018,8,Nou Barris,47,Can Peguera,Spaniards,821,47.1
+2018,8,Nou Barris,48,la Guineueta,Spaniards,5662,49.3
+2018,8,Nou Barris,49,Canyelles,Spaniards,2648,48.6
+2018,8,Nou Barris,50,les Roquetes,Spaniards,4644,45.9
+2018,8,Nou Barris,51,Verdun,Spaniards,4139,49.2
+2018,8,Nou Barris,52,la Prosperitat,Spaniards,9168,49.4
+2018,8,Nou Barris,53,la Trinitat Nova,Spaniards,2327,47.2
+2018,8,Nou Barris,54,Torre Baró,Spaniards,747,41.2
+2018,8,Nou Barris,55,Ciutat Meridiana,Spaniards,2585,47.5
+2018,8,Nou Barris,56,Vallbona,Spaniards,396,43.7
+2018,9,Sant Andreu,57,la Trinitat Vella,Spaniards,2471,45.4
+2018,9,Sant Andreu,58,Baró de Viver,Spaniards,824,43.5
+2018,9,Sant Andreu,59,el Bon Pastor,Spaniards,3849,43.0
+2018,9,Sant Andreu,60,Sant Andreu,Spaniards,21414,46.0
+2018,9,Sant Andreu,61,la Sagrera,Spaniards,10117,48.5
+2018,9,Sant Andreu,62,el Congrés i els Indians,Spaniards,5033,48.3
+2018,9,Sant Andreu,63,Navas,Spaniards,7583,49.0
+2018,10,Sant Martí,64,el Camp de l'Arpa del Clot,Spaniards,13154,49.1
+2018,10,Sant Martí,65,el Clot,Spaniards,8904,46.7
+2018,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Spaniards,4798,47.5
+2018,10,Sant Martí,67,la Vila Olímpica del Poblenou,Spaniards,2682,42.9
+2018,10,Sant Martí,68,el Poblenou,Spaniards,10617,44.3
+2018,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Spaniards,4205,42.0
+2018,10,Sant Martí,70,el Besòs i el Maresme,Spaniards,6333,48.1
+2018,10,Sant Martí,71,Provençals del Poblenou,Spaniards,6819,45.1
+2018,10,Sant Martí,72,Sant Martí de Provençals,Spaniards,9232,49.1
+2018,10,Sant Martí,73,la Verneda i la Pau,Spaniards,10013,49.4
+2018,1,Ciutat Vella,1,el Raval,Foreigners,5297,31.6
+2018,1,Ciutat Vella,2,el Barri Gòtic,Foreigners,2192,32.7
+2018,1,Ciutat Vella,3,la Barceloneta,Foreigners,1983,32.9
+2018,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Foreigners,3113,32.8
+2018,2,Eixample,5,el Fort Pienc,Foreigners,1581,31.6
+2018,2,Eixample,6,la Sagrada Família,Foreigners,2475,32.1
+2018,2,Eixample,7,la Dreta de l'Eixample,Foreigners,2864,33.0
+2018,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Foreigners,2444,33.3
+2018,2,Eixample,9,la Nova Esquerra de l'Eixample,Foreigners,2529,32.7
+2018,2,Eixample,10,Sant Antoni,Foreigners,1925,32.5
+2018,3,Sants-Montjuïc,11,el Poble Sec,Foreigners,2715,32.0
+2018,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Foreigners,20,33.2
+2018,3,Sants-Montjuïc,13,la Marina de Port,Foreigners,815,31.4
+2018,3,Sants-Montjuïc,14,la Font de la Guatlla,Foreigners,423,33.2
+2018,3,Sants-Montjuïc,15,Hostafrancs,Foreigners,863,31.4
+2018,3,Sants-Montjuïc,16,la Bordeta,Foreigners,468,32.2
+2018,3,Sants-Montjuïc,17,Sants - Badal,Foreigners,830,31.6
+2018,3,Sants-Montjuïc,18,Sants,Foreigners,1432,32.1
+2018,4,Les Corts,19,les Corts,Foreigners,1262,32.5
+2018,4,Les Corts,20,la Maternitat i Sant Ramon,Foreigners,606,31.8
+2018,4,Les Corts,21,Pedralbes,Foreigners,474,33.2
+2018,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Foreigners,145,32.6
+2018,5,Sarrià-Sant Gervasi,23,Sarrià,Foreigners,724,31.7
+2018,5,Sarrià-Sant Gervasi,24,les Tres Torres,Foreigners,327,34.1
+2018,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Foreigners,632,32.4
+2018,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Foreigners,1516,33.8
+2018,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Foreigners,1122,32.8
+2018,6,Gràcia,28,Vallcarca i els Penitents,Foreigners,554,32.4
+2018,6,Gràcia,29,el Coll,Foreigners,257,31.5
+2018,6,Gràcia,30,la Salut,Foreigners,415,32.5
+2018,6,Gràcia,31,la Vila de Gràcia,Foreigners,3135,32.5
+2018,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Foreigners,1202,32.4
+2018,7,Horta-Guinardó,33,el Baix Guinardó,Foreigners,768,32.3
+2018,7,Horta-Guinardó,34,Can Baró,Foreigners,290,30.7
+2018,7,Horta-Guinardó,35,el Guinardó,Foreigners,1036,31.7
+2018,7,Horta-Guinardó,36,la Font d'en Fargues,Foreigners,106,33.0
+2018,7,Horta-Guinardó,37,el Carmel,Foreigners,903,31.5
+2018,7,Horta-Guinardó,38,la Teixonera,Foreigners,333,31.3
+2018,7,Horta-Guinardó,39,Sant Genís dels Agudells,Foreigners,185,32.2
+2018,7,Horta-Guinardó,40,Montbau,Foreigners,118,30.3
+2018,7,Horta-Guinardó,41,la Vall d'Hebron,Foreigners,89,31.3
+2018,7,Horta-Guinardó,42,la Clota,Foreigners,16,34.5
+2018,7,Horta-Guinardó,43,Horta,Foreigners,431,32.1
+2018,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Foreigners,583,32.1
+2018,8,Nou Barris,45,Porta,Foreigners,591,31.4
+2018,8,Nou Barris,46,el Turó de la Peira,Foreigners,524,31.0
+2018,8,Nou Barris,47,Can Peguera,Foreigners,30,32.0
+2018,8,Nou Barris,48,la Guineueta,Foreigners,184,32.3
+2018,8,Nou Barris,49,Canyelles,Foreigners,46,32.2
+2018,8,Nou Barris,50,les Roquetes,Foreigners,584,30.5
+2018,8,Nou Barris,51,Verdun,Foreigners,405,30.1
+2018,8,Nou Barris,52,la Prosperitat,Foreigners,651,30.5
+2018,8,Nou Barris,53,la Trinitat Nova,Foreigners,251,31.2
+2018,8,Nou Barris,54,Torre Baró,Foreigners,82,30.2
+2018,8,Nou Barris,55,Ciutat Meridiana,Foreigners,498,29.7
+2018,8,Nou Barris,56,Vallbona,Foreigners,38,31.3
+2018,9,Sant Andreu,57,la Trinitat Vella,Foreigners,479,30.5
+2018,9,Sant Andreu,58,Baró de Viver,Foreigners,45,28.3
+2018,9,Sant Andreu,59,el Bon Pastor,Foreigners,241,31.1
+2018,9,Sant Andreu,60,Sant Andreu,Foreigners,792,32.7
+2018,9,Sant Andreu,61,la Sagrera,Foreigners,621,32.1
+2018,9,Sant Andreu,62,el Congrés i els Indians,Foreigners,320,32.5
+2018,9,Sant Andreu,63,Navas,Foreigners,586,32.3
+2018,10,Sant Martí,64,el Camp de l'Arpa del Clot,Foreigners,1451,31.8
+2018,10,Sant Martí,65,el Clot,Foreigners,854,32.6
+2018,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Foreigners,710,31.6
+2018,10,Sant Martí,67,la Vila Olímpica del Poblenou,Foreigners,434,33.0
+2018,10,Sant Martí,68,el Poblenou,Foreigners,1604,32.5
+2018,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Foreigners,739,32.5
+2018,10,Sant Martí,70,el Besòs i el Maresme,Foreigners,1060,31.1
+2018,10,Sant Martí,71,Provençals del Poblenou,Foreigners,637,31.2
+2018,10,Sant Martí,72,Sant Martí de Provençals,Foreigners,594,31.8
+2018,10,Sant Martí,73,la Verneda i la Pau,Foreigners,618,31.7
+2018,1,Ciutat Vella,1,el Raval,Mixed,3524,33.9
+2018,1,Ciutat Vella,2,el Barri Gòtic,Mixed,1105,35.9
+2018,1,Ciutat Vella,3,la Barceloneta,Mixed,876,36.5
+2018,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Mixed,1599,33.6
+2018,2,Eixample,5,el Fort Pienc,Mixed,1512,36.1
+2018,2,Eixample,6,la Sagrada Família,Mixed,2533,36.1
+2018,2,Eixample,7,la Dreta de l'Eixample,Mixed,2276,38.2
+2018,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Mixed,2252,36.5
+2018,2,Eixample,9,la Nova Esquerra de l'Eixample,Mixed,2765,36.7
+2018,2,Eixample,10,Sant Antoni,Mixed,2082,36.3
+2018,3,Sants-Montjuïc,11,el Poble Sec,Mixed,2590,34.6
+2018,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Mixed,29,36.8
+2018,3,Sants-Montjuïc,13,la Marina de Port,Mixed,1141,34.2
+2018,3,Sants-Montjuïc,14,la Font de la Guatlla,Mixed,493,36.4
+2018,3,Sants-Montjuïc,15,Hostafrancs,Mixed,822,35.0
+2018,3,Sants-Montjuïc,16,la Bordeta,Mixed,681,34.8
+2018,3,Sants-Montjuïc,17,Sants - Badal,Mixed,1089,35.1
+2018,3,Sants-Montjuïc,18,Sants,Mixed,1821,35.6
+2018,4,Les Corts,19,les Corts,Mixed,1475,38.1
+2018,4,Les Corts,20,la Maternitat i Sant Ramon,Mixed,802,35.9
+2018,4,Les Corts,21,Pedralbes,Mixed,418,38.5
+2018,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Mixed,212,38.0
+2018,5,Sarrià-Sant Gervasi,23,Sarrià,Mixed,826,37.7
+2018,5,Sarrià-Sant Gervasi,24,les Tres Torres,Mixed,485,37.3
+2018,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Mixed,859,38.4
+2018,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Mixed,1819,37.5
+2018,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Mixed,1160,35.6
+2018,6,Gràcia,28,Vallcarca i els Penitents,Mixed,632,35.4
+2018,6,Gràcia,29,el Coll,Mixed,322,34.7
+2018,6,Gràcia,30,la Salut,Mixed,515,36.3
+2018,6,Gràcia,31,la Vila de Gràcia,Mixed,2571,36.0
+2018,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Mixed,1380,35.9
+2018,7,Horta-Guinardó,33,el Baix Guinardó,Mixed,1060,37.9
+2018,7,Horta-Guinardó,34,Can Baró,Mixed,383,34.9
+2018,7,Horta-Guinardó,35,el Guinardó,Mixed,1615,35.1
+2018,7,Horta-Guinardó,36,la Font d'en Fargues,Mixed,240,35.6
+2018,7,Horta-Guinardó,37,el Carmel,Mixed,1193,32.8
+2018,7,Horta-Guinardó,38,la Teixonera,Mixed,455,33.9
+2018,7,Horta-Guinardó,39,Sant Genís dels Agudells,Mixed,287,34.7
+2018,7,Horta-Guinardó,40,Montbau,Mixed,164,38.5
+2018,7,Horta-Guinardó,41,la Vall d'Hebron,Mixed,143,41.7
+2018,7,Horta-Guinardó,42,la Clota,Mixed,21,32.7
+2018,7,Horta-Guinardó,43,Horta,Mixed,728,36.2
+2018,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Mixed,926,34.9
+2018,8,Nou Barris,45,Porta,Mixed,949,34.3
+2018,8,Nou Barris,46,el Turó de la Peira,Mixed,838,32.6
+2018,8,Nou Barris,47,Can Peguera,Mixed,74,33.3
+2018,8,Nou Barris,48,la Guineueta,Mixed,374,35.6
+2018,8,Nou Barris,49,Canyelles,Mixed,114,35.8
+2018,8,Nou Barris,50,les Roquetes,Mixed,697,32.0
+2018,8,Nou Barris,51,Verdun,Mixed,563,33.2
+2018,8,Nou Barris,52,la Prosperitat,Mixed,932,32.6
+2018,8,Nou Barris,53,la Trinitat Nova,Mixed,335,32.3
+2018,8,Nou Barris,54,Torre Baró,Mixed,135,31.3
+2018,8,Nou Barris,55,Ciutat Meridiana,Mixed,586,30.8
+2018,8,Nou Barris,56,Vallbona,Mixed,55,30.5
+2018,9,Sant Andreu,57,la Trinitat Vella,Mixed,555,32.3
+2018,9,Sant Andreu,58,Baró de Viver,Mixed,108,31.3
+2018,9,Sant Andreu,59,el Bon Pastor,Mixed,397,34.8
+2018,9,Sant Andreu,60,Sant Andreu,Mixed,1528,35.6
+2018,9,Sant Andreu,61,la Sagrera,Mixed,1113,35.0
+2018,9,Sant Andreu,62,el Congrés i els Indians,Mixed,554,35.4
+2018,9,Sant Andreu,63,Navas,Mixed,878,36.1
+2018,10,Sant Martí,64,el Camp de l'Arpa del Clot,Mixed,1746,36.4
+2018,10,Sant Martí,65,el Clot,Mixed,1036,35.0
+2018,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Mixed,754,33.0
+2018,10,Sant Martí,67,la Vila Olímpica del Poblenou,Mixed,400,34.6
+2018,10,Sant Martí,68,el Poblenou,Mixed,1509,34.7
+2018,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Mixed,512,33.9
+2018,10,Sant Martí,70,el Besòs i el Maresme,Mixed,911,32.6
+2018,10,Sant Martí,71,Provençals del Poblenou,Mixed,750,34.7
+2018,10,Sant Martí,72,Sant Martí de Provençals,Mixed,801,36.4
+2018,10,Sant Martí,73,la Verneda i la Pau,Mixed,838,35.1
+2017,1,Ciutat Vella,1,el Raval,Spaniards,8529,49.7
+2017,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3353,50.7
+2017,1,Ciutat Vella,3,la Barceloneta,Spaniards,4184,50.0
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Spaniards,5560,49.3
+2017,2,Eixample,5,el Fort Pienc,Spaniards,9820,48.7
+2017,2,Eixample,6,la Sagrada Família,Spaniards,17167,49.5
+2017,2,Eixample,7,la Dreta de l'Eixample,Spaniards,13526,47.9
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Spaniards,13689,48.3
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,Spaniards,19562,48.9
+2017,2,Eixample,10,Sant Antoni,Spaniards,12525,50.1
+2017,3,Sants-Montjuïc,11,el Poble Sec,Spaniards,10853,49.2
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Spaniards,398,44.9
+2017,3,Sants-Montjuïc,13,la Marina de Port,Spaniards,10021,46.1
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,Spaniards,3383,49.1
+2017,3,Sants-Montjuïc,15,Hostafrancs,Spaniards,5026,47.9
+2017,3,Sants-Montjuïc,16,la Bordeta,Spaniards,6433,48.1
+2017,3,Sants-Montjuïc,17,Sants - Badal,Spaniards,8109,49.1
+2017,3,Sants-Montjuïc,18,Sants,Spaniards,13985,47.9
+2017,4,Les Corts,19,les Corts,Spaniards,16413,48.1
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,Spaniards,8386,48.3
+2017,4,Les Corts,21,Pedralbes,Spaniards,3355,46.8
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Spaniards,1241,41.3
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,Spaniards,7368,43.9
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,Spaniards,4792,43.0
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Spaniards,7876,44.6
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Spaniards,15415,45.6
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Spaniards,10006,45.2
+2017,6,Gràcia,28,Vallcarca i els Penitents,Spaniards,5342,47.1
+2017,6,Gràcia,29,el Coll,Spaniards,2538,46.3
+2017,6,Gràcia,30,la Salut,Spaniards,4503,48.2
+2017,6,Gràcia,31,la Vila de Gràcia,Spaniards,17162,46.9
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Spaniards,12415,48.1
+2017,7,Horta-Guinardó,33,el Baix Guinardó,Spaniards,9078,49.0
+2017,7,Horta-Guinardó,34,Can Baró,Spaniards,3163,48.3
+2017,7,Horta-Guinardó,35,el Guinardó,Spaniards,12843,47.7
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Spaniards,3366,46.2
+2017,7,Horta-Guinardó,37,el Carmel,Spaniards,10827,47.5
+2017,7,Horta-Guinardó,38,la Teixonera,Spaniards,4034,47.3
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Spaniards,2423,50.2
+2017,7,Horta-Guinardó,40,Montbau,Spaniards,1878,51.9
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,Spaniards,2122,47.7
+2017,7,Horta-Guinardó,42,la Clota,Spaniards,235,41.0
+2017,7,Horta-Guinardó,43,Horta,Spaniards,9465,48.2
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Spaniards,9023,49.3
+2017,8,Nou Barris,45,Porta,Spaniards,8734,49.6
+2017,8,Nou Barris,46,el Turó de la Peira,Spaniards,4911,51.0
+2017,8,Nou Barris,47,Can Peguera,Spaniards,825,47.2
+2017,8,Nou Barris,48,la Guineueta,Spaniards,5669,49.0
+2017,8,Nou Barris,49,Canyelles,Spaniards,2645,48.3
+2017,8,Nou Barris,50,les Roquetes,Spaniards,4686,45.7
+2017,8,Nou Barris,51,Verdun,Spaniards,4194,49.1
+2017,8,Nou Barris,52,la Prosperitat,Spaniards,9211,49.1
+2017,8,Nou Barris,53,la Trinitat Nova,Spaniards,2352,46.9
+2017,8,Nou Barris,54,Torre Baró,Spaniards,739,40.9
+2017,8,Nou Barris,55,Ciutat Meridiana,Spaniards,2591,47.7
+2017,8,Nou Barris,56,Vallbona,Spaniards,396,43.3
+2017,9,Sant Andreu,57,la Trinitat Vella,Spaniards,2503,45.4
+2017,9,Sant Andreu,58,Baró de Viver,Spaniards,830,43.1
+2017,9,Sant Andreu,59,el Bon Pastor,Spaniards,3862,42.8
+2017,9,Sant Andreu,60,Sant Andreu,Spaniards,21326,45.8
+2017,9,Sant Andreu,61,la Sagrera,Spaniards,10127,48.2
+2017,9,Sant Andreu,62,el Congrés i els Indians,Spaniards,5079,48.4
+2017,9,Sant Andreu,63,Navas,Spaniards,7591,48.9
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Spaniards,13267,48.9
+2017,10,Sant Martí,65,el Clot,Spaniards,8978,46.4
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Spaniards,4753,47.2
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,Spaniards,2679,42.3
+2017,10,Sant Martí,68,el Poblenou,Spaniards,10679,44.2
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Spaniards,4266,41.6
+2017,10,Sant Martí,70,el Besòs i el Maresme,Spaniards,6422,48.0
+2017,10,Sant Martí,71,Provençals del Poblenou,Spaniards,6855,44.9
+2017,10,Sant Martí,72,Sant Martí de Provençals,Spaniards,9256,49.0
+2017,10,Sant Martí,73,la Verneda i la Pau,Spaniards,10105,49.2
+2017,1,Ciutat Vella,1,el Raval,Foreigners,4939,31.8
+2017,1,Ciutat Vella,2,el Barri Gòtic,Foreigners,2026,32.6
+2017,1,Ciutat Vella,3,la Barceloneta,Foreigners,1823,32.8
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Foreigners,2882,32.6
+2017,2,Eixample,5,el Fort Pienc,Foreigners,1492,31.8
+2017,2,Eixample,6,la Sagrada Família,Foreigners,2267,32.0
+2017,2,Eixample,7,la Dreta de l'Eixample,Foreigners,2663,32.9
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Foreigners,2272,33.3
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,Foreigners,2328,32.7
+2017,2,Eixample,10,Sant Antoni,Foreigners,1783,32.2
+2017,3,Sants-Montjuïc,11,el Poble Sec,Foreigners,2545,31.9
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Foreigners,18,34.0
+2017,3,Sants-Montjuïc,13,la Marina de Port,Foreigners,724,31.1
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,Foreigners,403,32.9
+2017,3,Sants-Montjuïc,15,Hostafrancs,Foreigners,762,32.0
+2017,3,Sants-Montjuïc,16,la Bordeta,Foreigners,436,32.2
+2017,3,Sants-Montjuïc,17,Sants - Badal,Foreigners,766,31.4
+2017,3,Sants-Montjuïc,18,Sants,Foreigners,1380,32.5
+2017,4,Les Corts,19,les Corts,Foreigners,1179,32.8
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,Foreigners,570,32.1
+2017,4,Les Corts,21,Pedralbes,Foreigners,452,32.7
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Foreigners,132,32.0
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,Foreigners,705,32.4
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,Foreigners,320,34.7
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Foreigners,587,32.5
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Foreigners,1443,33.6
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Foreigners,1060,33.2
+2017,6,Gràcia,28,Vallcarca i els Penitents,Foreigners,500,32.8
+2017,6,Gràcia,29,el Coll,Foreigners,236,31.8
+2017,6,Gràcia,30,la Salut,Foreigners,376,33.0
+2017,6,Gràcia,31,la Vila de Gràcia,Foreigners,2926,32.2
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Foreigners,1142,32.1
+2017,7,Horta-Guinardó,33,el Baix Guinardó,Foreigners,713,32.5
+2017,7,Horta-Guinardó,34,Can Baró,Foreigners,272,31.1
+2017,7,Horta-Guinardó,35,el Guinardó,Foreigners,968,32.0
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Foreigners,98,33.5
+2017,7,Horta-Guinardó,37,el Carmel,Foreigners,770,31.5
+2017,7,Horta-Guinardó,38,la Teixonera,Foreigners,287,31.5
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Foreigners,172,30.7
+2017,7,Horta-Guinardó,40,Montbau,Foreigners,112,29.9
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,Foreigners,87,30.6
+2017,7,Horta-Guinardó,42,la Clota,Foreigners,11,33.8
+2017,7,Horta-Guinardó,43,Horta,Foreigners,409,31.8
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Foreigners,540,31.7
+2017,8,Nou Barris,45,Porta,Foreigners,507,31.5
+2017,8,Nou Barris,46,el Turó de la Peira,Foreigners,458,31.8
+2017,8,Nou Barris,47,Can Peguera,Foreigners,27,34.4
+2017,8,Nou Barris,48,la Guineueta,Foreigners,160,32.2
+2017,8,Nou Barris,49,Canyelles,Foreigners,46,31.8
+2017,8,Nou Barris,50,les Roquetes,Foreigners,554,30.4
+2017,8,Nou Barris,51,Verdun,Foreigners,347,30.1
+2017,8,Nou Barris,52,la Prosperitat,Foreigners,605,30.9
+2017,8,Nou Barris,53,la Trinitat Nova,Foreigners,212,30.6
+2017,8,Nou Barris,54,Torre Baró,Foreigners,68,29.9
+2017,8,Nou Barris,55,Ciutat Meridiana,Foreigners,432,29.7
+2017,8,Nou Barris,56,Vallbona,Foreigners,30,33.2
+2017,9,Sant Andreu,57,la Trinitat Vella,Foreigners,458,31.0
+2017,9,Sant Andreu,58,Baró de Viver,Foreigners,39,29.3
+2017,9,Sant Andreu,59,el Bon Pastor,Foreigners,232,31.1
+2017,9,Sant Andreu,60,Sant Andreu,Foreigners,733,31.8
+2017,9,Sant Andreu,61,la Sagrera,Foreigners,571,31.7
+2017,9,Sant Andreu,62,el Congrés i els Indians,Foreigners,296,32.2
+2017,9,Sant Andreu,63,Navas,Foreigners,516,32.6
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Foreigners,1319,32.2
+2017,10,Sant Martí,65,el Clot,Foreigners,791,32.8
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Foreigners,688,31.6
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,Foreigners,418,33.2
+2017,10,Sant Martí,68,el Poblenou,Foreigners,1490,32.4
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Foreigners,679,32.2
+2017,10,Sant Martí,70,el Besòs i el Maresme,Foreigners,985,31.3
+2017,10,Sant Martí,71,Provençals del Poblenou,Foreigners,595,31.3
+2017,10,Sant Martí,72,Sant Martí de Provençals,Foreigners,533,31.3
+2017,10,Sant Martí,73,la Verneda i la Pau,Foreigners,542,31.7
+2017,1,Ciutat Vella,1,el Raval,Mixed,3622,33.9
+2017,1,Ciutat Vella,2,el Barri Gòtic,Mixed,1158,35.8
+2017,1,Ciutat Vella,3,la Barceloneta,Mixed,904,36.5
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Mixed,1712,33.8
+2017,2,Eixample,5,el Fort Pienc,Mixed,1526,36.0
+2017,2,Eixample,6,la Sagrada Família,Mixed,2486,35.9
+2017,2,Eixample,7,la Dreta de l'Eixample,Mixed,2331,38.2
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Mixed,2262,36.8
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,Mixed,2753,36.3
+2017,2,Eixample,10,Sant Antoni,Mixed,2106,36.0
+2017,3,Sants-Montjuïc,11,el Poble Sec,Mixed,2619,34.5
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Mixed,31,34.7
+2017,3,Sants-Montjuïc,13,la Marina de Port,Mixed,1118,34.2
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,Mixed,500,36.6
+2017,3,Sants-Montjuïc,15,Hostafrancs,Mixed,836,34.6
+2017,3,Sants-Montjuïc,16,la Bordeta,Mixed,667,35.1
+2017,3,Sants-Montjuïc,17,Sants - Badal,Mixed,1054,34.9
+2017,3,Sants-Montjuïc,18,Sants,Mixed,1820,35.6
+2017,4,Les Corts,19,les Corts,Mixed,1445,38.2
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,Mixed,777,36.5
+2017,4,Les Corts,21,Pedralbes,Mixed,427,38.2
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Mixed,208,38.1
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,Mixed,831,37.3
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,Mixed,481,37.4
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Mixed,887,38.1
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Mixed,1825,37.4
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Mixed,1167,36.2
+2017,6,Gràcia,28,Vallcarca i els Penitents,Mixed,621,35.9
+2017,6,Gràcia,29,el Coll,Mixed,319,34.1
+2017,6,Gràcia,30,la Salut,Mixed,512,36.1
+2017,6,Gràcia,31,la Vila de Gràcia,Mixed,2655,36.2
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Mixed,1374,36.1
+2017,7,Horta-Guinardó,33,el Baix Guinardó,Mixed,1038,37.5
+2017,7,Horta-Guinardó,34,Can Baró,Mixed,369,35.1
+2017,7,Horta-Guinardó,35,el Guinardó,Mixed,1529,34.7
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Mixed,230,35.4
+2017,7,Horta-Guinardó,37,el Carmel,Mixed,1143,32.5
+2017,7,Horta-Guinardó,38,la Teixonera,Mixed,452,33.2
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Mixed,268,36.0
+2017,7,Horta-Guinardó,40,Montbau,Mixed,150,41.0
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,Mixed,143,41.8
+2017,7,Horta-Guinardó,42,la Clota,Mixed,18,33.1
+2017,7,Horta-Guinardó,43,Horta,Mixed,715,36.5
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Mixed,919,34.5
+2017,8,Nou Barris,45,Porta,Mixed,922,34.0
+2017,8,Nou Barris,46,el Turó de la Peira,Mixed,814,32.6
+2017,8,Nou Barris,47,Can Peguera,Mixed,69,31.7
+2017,8,Nou Barris,48,la Guineueta,Mixed,364,35.7
+2017,8,Nou Barris,49,Canyelles,Mixed,108,37.0
+2017,8,Nou Barris,50,les Roquetes,Mixed,664,31.8
+2017,8,Nou Barris,51,Verdun,Mixed,537,32.7
+2017,8,Nou Barris,52,la Prosperitat,Mixed,884,34.2
+2017,8,Nou Barris,53,la Trinitat Nova,Mixed,299,31.9
+2017,8,Nou Barris,54,Torre Baró,Mixed,134,30.9
+2017,8,Nou Barris,55,Ciutat Meridiana,Mixed,585,30.4
+2017,8,Nou Barris,56,Vallbona,Mixed,51,30.7
+2017,9,Sant Andreu,57,la Trinitat Vella,Mixed,530,31.5
+2017,9,Sant Andreu,58,Baró de Viver,Mixed,101,30.4
+2017,9,Sant Andreu,59,el Bon Pastor,Mixed,375,35.5
+2017,9,Sant Andreu,60,Sant Andreu,Mixed,1491,35.4
+2017,9,Sant Andreu,61,la Sagrera,Mixed,1078,34.9
+2017,9,Sant Andreu,62,el Congrés i els Indians,Mixed,541,35.3
+2017,9,Sant Andreu,63,Navas,Mixed,895,35.5
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Mixed,1732,35.9
+2017,10,Sant Martí,65,el Clot,Mixed,1005,34.8
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Mixed,721,33.2
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,Mixed,423,34.3
+2017,10,Sant Martí,68,el Poblenou,Mixed,1478,34.2
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Mixed,542,33.6
+2017,10,Sant Martí,70,el Besòs i el Maresme,Mixed,884,32.6
+2017,10,Sant Martí,71,Provençals del Poblenou,Mixed,696,34.2
+2017,10,Sant Martí,72,Sant Martí de Provençals,Mixed,809,36.4
+2017,10,Sant Martí,73,la Verneda i la Pau,Mixed,805,35.0
+2016,1,Ciutat Vella,1,el Raval,Spaniards,8678,50.0
+2016,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3473,50.1
+2016,1,Ciutat Vella,3,la Barceloneta,Spaniards,4348,49.6
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Spaniards,5661,49.4
+2016,2,Eixample,5,el Fort Pienc,Spaniards,9984,48.5
+2016,2,Eixample,6,la Sagrada Família,Spaniards,17397,49.2
+2016,2,Eixample,7,la Dreta de l'Eixample,Spaniards,13732,47.7
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Spaniards,13838,48.2
+2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Spaniards,19740,48.7
+2016,2,Eixample,10,Sant Antoni,Spaniards,12706,49.9
+2016,3,Sants-Montjuïc,11,el Poble Sec,Spaniards,11033,49.0
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Spaniards,397,44.8
+2016,3,Sants-Montjuïc,13,la Marina de Port,Spaniards,10048,45.8
+2016,3,Sants-Montjuïc,14,la Font de la Guatlla,Spaniards,3393,48.8
+2016,3,Sants-Montjuïc,15,Hostafrancs,Spaniards,5077,47.8
+2016,3,Sants-Montjuïc,16,la Bordeta,Spaniards,6467,47.9
+2016,3,Sants-Montjuïc,17,Sants - Badal,Spaniards,8187,48.8
+2016,3,Sants-Montjuïc,18,Sants,Spaniards,14071,47.8
+2016,4,Les Corts,19,les Corts,Spaniards,16471,48.0
+2016,4,Les Corts,20,la Maternitat i Sant Ramon,Spaniards,8410,48.1
+2016,4,Les Corts,21,Pedralbes,Spaniards,3379,46.7
+2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Spaniards,1247,41.7
+2016,5,Sarrià-Sant Gervasi,23,Sarrià,Spaniards,7380,44.0
+2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,Spaniards,4816,43.0
+2016,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Spaniards,7945,44.6
+2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Spaniards,15503,45.5
+2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Spaniards,9984,45.2
+2016,6,Gràcia,28,Vallcarca i els Penitents,Spaniards,5350,46.9
+2016,6,Gràcia,29,el Coll,Spaniards,2547,46.2
+2016,6,Gràcia,30,la Salut,Spaniards,4533,47.8
+2016,6,Gràcia,31,la Vila de Gràcia,Spaniards,17465,46.8
+2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Spaniards,12480,48.1
+2016,7,Horta-Guinardó,33,el Baix Guinardó,Spaniards,9112,49.0
+2016,7,Horta-Guinardó,34,Can Baró,Spaniards,3186,48.3
+2016,7,Horta-Guinardó,35,el Guinardó,Spaniards,12856,47.7
+2016,7,Horta-Guinardó,36,la Font d'en Fargues,Spaniards,3404,45.9
+2016,7,Horta-Guinardó,37,el Carmel,Spaniards,10912,47.1
+2016,7,Horta-Guinardó,38,la Teixonera,Spaniards,4008,47.0
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Spaniards,2433,50.1
+2016,7,Horta-Guinardó,40,Montbau,Spaniards,1883,51.7
+2016,7,Horta-Guinardó,41,la Vall d'Hebron,Spaniards,2091,47.4
+2016,7,Horta-Guinardó,42,la Clota,Spaniards,225,41.7
+2016,7,Horta-Guinardó,43,Horta,Spaniards,9518,48.2
+2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Spaniards,9080,49.0
+2016,8,Nou Barris,45,Porta,Spaniards,8767,49.5
+2016,8,Nou Barris,46,el Turó de la Peira,Spaniards,4956,51.1
+2016,8,Nou Barris,47,Can Peguera,Spaniards,823,46.9
+2016,8,Nou Barris,48,la Guineueta,Spaniards,5666,49.0
+2016,8,Nou Barris,49,Canyelles,Spaniards,2652,47.9
+2016,8,Nou Barris,50,les Roquetes,Spaniards,4689,45.4
+2016,8,Nou Barris,51,Verdun,Spaniards,4210,48.7
+2016,8,Nou Barris,52,la Prosperitat,Spaniards,9275,48.9
+2016,8,Nou Barris,53,la Trinitat Nova,Spaniards,2388,46.8
+2016,8,Nou Barris,54,Torre Baró,Spaniards,732,40.6
+2016,8,Nou Barris,55,Ciutat Meridiana,Spaniards,2587,47.7
+2016,8,Nou Barris,56,Vallbona,Spaniards,396,42.9
+2016,9,Sant Andreu,57,la Trinitat Vella,Spaniards,2506,45.0
+2016,9,Sant Andreu,58,Baró de Viver,Spaniards,833,42.9
+2016,9,Sant Andreu,59,el Bon Pastor,Spaniards,3893,42.4
+2016,9,Sant Andreu,60,Sant Andreu,Spaniards,21340,45.6
+2016,9,Sant Andreu,61,la Sagrera,Spaniards,10131,48.0
+2016,9,Sant Andreu,62,el Congrés i els Indians,Spaniards,5128,48.4
+2016,9,Sant Andreu,63,Navas,Spaniards,7654,48.6
+2016,10,Sant Martí,64,el Camp de l'Arpa del Clot,Spaniards,13411,48.7
+2016,10,Sant Martí,65,el Clot,Spaniards,9079,46.1
+2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Spaniards,4745,47.0
+2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Spaniards,2694,41.8
+2016,10,Sant Martí,68,el Poblenou,Spaniards,10751,43.9
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Spaniards,4299,41.3
+2016,10,Sant Martí,70,el Besòs i el Maresme,Spaniards,6492,47.7
+2016,10,Sant Martí,71,Provençals del Poblenou,Spaniards,6918,44.6
+2016,10,Sant Martí,72,Sant Martí de Provençals,Spaniards,9338,48.6
+2016,10,Sant Martí,73,la Verneda i la Pau,Spaniards,10180,49.0
+2016,1,Ciutat Vella,1,el Raval,Foreigners,4552,31.7
+2016,1,Ciutat Vella,2,el Barri Gòtic,Foreigners,1837,32.7
+2016,1,Ciutat Vella,3,la Barceloneta,Foreigners,1603,33.1
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Foreigners,2630,32.3
+2016,2,Eixample,5,el Fort Pienc,Foreigners,1329,31.7
+2016,2,Eixample,6,la Sagrada Família,Foreigners,2029,32.1
+2016,2,Eixample,7,la Dreta de l'Eixample,Foreigners,2394,33.1
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Foreigners,2088,33.4
+2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Foreigners,2159,32.6
+2016,2,Eixample,10,Sant Antoni,Foreigners,1639,32.6
+2016,3,Sants-Montjuïc,11,el Poble Sec,Foreigners,2352,31.9
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Foreigners,18,35.2
+2016,3,Sants-Montjuïc,13,la Marina de Port,Foreigners,654,31.0
+2016,3,Sants-Montjuïc,14,la Font de la Guatlla,Foreigners,378,32.4
+2016,3,Sants-Montjuïc,15,Hostafrancs,Foreigners,700,32.3
+2016,3,Sants-Montjuïc,16,la Bordeta,Foreigners,409,31.7
+2016,3,Sants-Montjuïc,17,Sants - Badal,Foreigners,709,31.3
+2016,3,Sants-Montjuïc,18,Sants,Foreigners,1292,32.6
+2016,4,Les Corts,19,les Corts,Foreigners,1068,32.9
+2016,4,Les Corts,20,la Maternitat i Sant Ramon,Foreigners,522,31.8
+2016,4,Les Corts,21,Pedralbes,Foreigners,414,33.0
+2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Foreigners,120,31.7
+2016,5,Sarrià-Sant Gervasi,23,Sarrià,Foreigners,667,32.9
+2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,Foreigners,276,35.4
+2016,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Foreigners,544,33.9
+2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Foreigners,1324,34.2
+2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Foreigners,1009,33.4
+2016,6,Gràcia,28,Vallcarca i els Penitents,Foreigners,446,33.0
+2016,6,Gràcia,29,el Coll,Foreigners,227,32.6
+2016,6,Gràcia,30,la Salut,Foreigners,362,33.3
+2016,6,Gràcia,31,la Vila de Gràcia,Foreigners,2694,32.2
+2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Foreigners,1021,32.0
+2016,7,Horta-Guinardó,33,el Baix Guinardó,Foreigners,676,32.2
+2016,7,Horta-Guinardó,34,Can Baró,Foreigners,247,31.5
+2016,7,Horta-Guinardó,35,el Guinardó,Foreigners,887,31.9
+2016,7,Horta-Guinardó,36,la Font d'en Fargues,Foreigners,85,33.1
+2016,7,Horta-Guinardó,37,el Carmel,Foreigners,710,31.5
+2016,7,Horta-Guinardó,38,la Teixonera,Foreigners,265,31.8
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Foreigners,143,32.7
+2016,7,Horta-Guinardó,40,Montbau,Foreigners,96,30.6
+2016,7,Horta-Guinardó,41,la Vall d'Hebron,Foreigners,89,29.7
+2016,7,Horta-Guinardó,42,la Clota,Foreigners,10,34.0
+2016,7,Horta-Guinardó,43,Horta,Foreigners,391,31.3
+2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Foreigners,538,31.6
+2016,8,Nou Barris,45,Porta,Foreigners,476,31.9
+2016,8,Nou Barris,46,el Turó de la Peira,Foreigners,417,31.3
+2016,8,Nou Barris,47,Can Peguera,Foreigners,22,34.0
+2016,8,Nou Barris,48,la Guineueta,Foreigners,148,32.5
+2016,8,Nou Barris,49,Canyelles,Foreigners,46,32.7
+2016,8,Nou Barris,50,les Roquetes,Foreigners,500,30.4
+2016,8,Nou Barris,51,Verdun,Foreigners,323,29.9
+2016,8,Nou Barris,52,la Prosperitat,Foreigners,567,31.0
+2016,8,Nou Barris,53,la Trinitat Nova,Foreigners,206,31.2
+2016,8,Nou Barris,54,Torre Baró,Foreigners,66,29.2
+2016,8,Nou Barris,55,Ciutat Meridiana,Foreigners,417,29.8
+2016,8,Nou Barris,56,Vallbona,Foreigners,26,34.6
+2016,9,Sant Andreu,57,la Trinitat Vella,Foreigners,441,30.6
+2016,9,Sant Andreu,58,Baró de Viver,Foreigners,37,32.0
+2016,9,Sant Andreu,59,el Bon Pastor,Foreigners,215,31.8
+2016,9,Sant Andreu,60,Sant Andreu,Foreigners,608,31.8
+2016,9,Sant Andreu,61,la Sagrera,Foreigners,549,31.9
+2016,9,Sant Andreu,62,el Congrés i els Indians,Foreigners,293,31.7
+2016,9,Sant Andreu,63,Navas,Foreigners,478,32.1
+2016,10,Sant Martí,64,el Camp de l'Arpa del Clot,Foreigners,1183,32.2
+2016,10,Sant Martí,65,el Clot,Foreigners,724,32.7
+2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Foreigners,609,31.5
+2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Foreigners,409,33.8
+2016,10,Sant Martí,68,el Poblenou,Foreigners,1344,32.6
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Foreigners,586,32.2
+2016,10,Sant Martí,70,el Besòs i el Maresme,Foreigners,887,31.1
+2016,10,Sant Martí,71,Provençals del Poblenou,Foreigners,543,30.9
+2016,10,Sant Martí,72,Sant Martí de Provençals,Foreigners,472,31.4
+2016,10,Sant Martí,73,la Verneda i la Pau,Foreigners,460,31.6
+2016,1,Ciutat Vella,1,el Raval,Mixed,3621,33.8
+2016,1,Ciutat Vella,2,el Barri Gòtic,Mixed,1140,35.9
+2016,1,Ciutat Vella,3,la Barceloneta,Mixed,899,36.6
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Mixed,1663,34.3
+2016,2,Eixample,5,el Fort Pienc,Mixed,1492,36.1
+2016,2,Eixample,6,la Sagrada Família,Mixed,2418,36.2
+2016,2,Eixample,7,la Dreta de l'Eixample,Mixed,2265,37.9
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Mixed,2178,37.0
+2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Mixed,2616,36.3
+2016,2,Eixample,10,Sant Antoni,Mixed,2038,35.5
+2016,3,Sants-Montjuïc,11,el Poble Sec,Mixed,2598,34.3
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Mixed,27,34.7
+2016,3,Sants-Montjuïc,13,la Marina de Port,Mixed,1078,34.0
+2016,3,Sants-Montjuïc,14,la Font de la Guatlla,Mixed,495,36.5
+2016,3,Sants-Montjuïc,15,Hostafrancs,Mixed,834,34.8
+2016,3,Sants-Montjuïc,16,la Bordeta,Mixed,654,34.6
+2016,3,Sants-Montjuïc,17,Sants - Badal,Mixed,1023,34.8
+2016,3,Sants-Montjuïc,18,Sants,Mixed,1788,35.8
+2016,4,Les Corts,19,les Corts,Mixed,1369,37.6
+2016,4,Les Corts,20,la Maternitat i Sant Ramon,Mixed,740,36.1
+2016,4,Les Corts,21,Pedralbes,Mixed,398,38.7
+2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Mixed,196,36.0
+2016,5,Sarrià-Sant Gervasi,23,Sarrià,Mixed,820,36.3
+2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,Mixed,494,36.9
+2016,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Mixed,862,38.0
+2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Mixed,1762,37.7
+2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Mixed,1164,36.2
+2016,6,Gràcia,28,Vallcarca i els Penitents,Mixed,619,35.8
+2016,6,Gràcia,29,el Coll,Mixed,305,34.0
+2016,6,Gràcia,30,la Salut,Mixed,497,37.0
+2016,6,Gràcia,31,la Vila de Gràcia,Mixed,2594,35.7
+2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Mixed,1338,36.0
+2016,7,Horta-Guinardó,33,el Baix Guinardó,Mixed,986,37.2
+2016,7,Horta-Guinardó,34,Can Baró,Mixed,346,34.0
+2016,7,Horta-Guinardó,35,el Guinardó,Mixed,1518,34.8
+2016,7,Horta-Guinardó,36,la Font d'en Fargues,Mixed,200,34.5
+2016,7,Horta-Guinardó,37,el Carmel,Mixed,1084,32.5
+2016,7,Horta-Guinardó,38,la Teixonera,Mixed,400,33.6
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Mixed,250,35.4
+2016,7,Horta-Guinardó,40,Montbau,Mixed,133,40.5
+2016,7,Horta-Guinardó,41,la Vall d'Hebron,Mixed,132,43.0
+2016,7,Horta-Guinardó,42,la Clota,Mixed,18,27.7
+2016,7,Horta-Guinardó,43,Horta,Mixed,664,37.0
+2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Mixed,875,34.6
+2016,8,Nou Barris,45,Porta,Mixed,868,34.2
+2016,8,Nou Barris,46,el Turó de la Peira,Mixed,791,32.4
+2016,8,Nou Barris,47,Can Peguera,Mixed,68,31.8
+2016,8,Nou Barris,48,la Guineueta,Mixed,346,36.0
+2016,8,Nou Barris,49,Canyelles,Mixed,103,36.2
+2016,8,Nou Barris,50,les Roquetes,Mixed,642,31.8
+2016,8,Nou Barris,51,Verdun,Mixed,489,32.6
+2016,8,Nou Barris,52,la Prosperitat,Mixed,850,33.5
+2016,8,Nou Barris,53,la Trinitat Nova,Mixed,282,31.9
+2016,8,Nou Barris,54,Torre Baró,Mixed,133,31.2
+2016,8,Nou Barris,55,Ciutat Meridiana,Mixed,540,30.0
+2016,8,Nou Barris,56,Vallbona,Mixed,48,30.7
+2016,9,Sant Andreu,57,la Trinitat Vella,Mixed,526,31.2
+2016,9,Sant Andreu,58,Baró de Viver,Mixed,93,30.0
+2016,9,Sant Andreu,59,el Bon Pastor,Mixed,352,35.4
+2016,9,Sant Andreu,60,Sant Andreu,Mixed,1415,35.4
+2016,9,Sant Andreu,61,la Sagrera,Mixed,1016,34.6
+2016,9,Sant Andreu,62,el Congrés i els Indians,Mixed,496,35.3
+2016,9,Sant Andreu,63,Navas,Mixed,832,35.4
+2016,10,Sant Martí,64,el Camp de l'Arpa del Clot,Mixed,1676,35.6
+2016,10,Sant Martí,65,el Clot,Mixed,964,35.1
+2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Mixed,683,33.4
+2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Mixed,417,33.7
+2016,10,Sant Martí,68,el Poblenou,Mixed,1467,34.2
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Mixed,542,33.2
+2016,10,Sant Martí,70,el Besòs i el Maresme,Mixed,888,32.1
+2016,10,Sant Martí,71,Provençals del Poblenou,Mixed,678,33.9
+2016,10,Sant Martí,72,Sant Martí de Provençals,Mixed,774,36.3
+2016,10,Sant Martí,73,la Verneda i la Pau,Mixed,773,33.9
+2015,1,Ciutat Vella,1,el Raval,Spaniards,8815,50.0
+2015,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3545,50.1
+2015,1,Ciutat Vella,3,la Barceloneta,Spaniards,4412,49.8
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Spaniards,5720,49.4
+2015,2,Eixample,5,el Fort Pienc,Spaniards,10068,48.3
+2015,2,Eixample,6,la Sagrada Família,Spaniards,17533,49.1
+2015,2,Eixample,7,la Dreta de l'Eixample,Spaniards,13831,47.8
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Spaniards,13915,48.3
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Spaniards,19885,48.7
+2015,2,Eixample,10,Sant Antoni,Spaniards,12824,49.9
+2015,3,Sants-Montjuïc,11,el Poble Sec,Spaniards,11068,49.1
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Spaniards,398,45.0
+2015,3,Sants-Montjuïc,13,la Marina de Port,Spaniards,10058,45.6
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Spaniards,3414,48.6
+2015,3,Sants-Montjuïc,15,Hostafrancs,Spaniards,5076,47.8
+2015,3,Sants-Montjuïc,16,la Bordeta,Spaniards,6478,47.9
+2015,3,Sants-Montjuïc,17,Sants - Badal,Spaniards,8236,48.6
+2015,3,Sants-Montjuïc,18,Sants,Spaniards,14112,47.9
+2015,4,Les Corts,19,les Corts,Spaniards,16544,47.8
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Spaniards,8426,48.1
+2015,4,Les Corts,21,Pedralbes,Spaniards,3434,46.5
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Spaniards,1254,41.5
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Spaniards,7407,43.8
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Spaniards,4793,43.0
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Spaniards,7945,44.7
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Spaniards,15499,45.5
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Spaniards,9994,45.2
+2015,6,Gràcia,28,Vallcarca i els Penitents,Spaniards,5432,46.8
+2015,6,Gràcia,29,el Coll,Spaniards,2538,46.0
+2015,6,Gràcia,30,la Salut,Spaniards,4537,47.8
+2015,6,Gràcia,31,la Vila de Gràcia,Spaniards,17652,46.9
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Spaniards,12540,48.0
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Spaniards,9161,48.9
+2015,7,Horta-Guinardó,34,Can Baró,Spaniards,3188,48.3
+2015,7,Horta-Guinardó,35,el Guinardó,Spaniards,12889,47.7
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Spaniards,3411,45.8
+2015,7,Horta-Guinardó,37,el Carmel,Spaniards,10951,47.0
+2015,7,Horta-Guinardó,38,la Teixonera,Spaniards,4039,46.8
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Spaniards,2436,49.9
+2015,7,Horta-Guinardó,40,Montbau,Spaniards,1868,52.0
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Spaniards,2066,47.5
+2015,7,Horta-Guinardó,42,la Clota,Spaniards,217,42.9
+2015,7,Horta-Guinardó,43,Horta,Spaniards,9566,48.0
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Spaniards,9104,49.0
+2015,8,Nou Barris,45,Porta,Spaniards,8745,49.5
+2015,8,Nou Barris,46,el Turó de la Peira,Spaniards,4943,51.4
+2015,8,Nou Barris,47,Can Peguera,Spaniards,839,47.0
+2015,8,Nou Barris,48,la Guineueta,Spaniards,5682,48.9
+2015,8,Nou Barris,49,Canyelles,Spaniards,2651,47.7
+2015,8,Nou Barris,50,les Roquetes,Spaniards,4697,45.2
+2015,8,Nou Barris,51,Verdun,Spaniards,4214,48.4
+2015,8,Nou Barris,52,la Prosperitat,Spaniards,9339,48.8
+2015,8,Nou Barris,53,la Trinitat Nova,Spaniards,2400,46.8
+2015,8,Nou Barris,54,Torre Baró,Spaniards,739,40.6
+2015,8,Nou Barris,55,Ciutat Meridiana,Spaniards,2596,47.6
+2015,8,Nou Barris,56,Vallbona,Spaniards,407,42.8
+2015,9,Sant Andreu,57,la Trinitat Vella,Spaniards,2507,45.0
+2015,9,Sant Andreu,58,Baró de Viver,Spaniards,836,42.8
+2015,9,Sant Andreu,59,el Bon Pastor,Spaniards,3983,42.4
+2015,9,Sant Andreu,60,Sant Andreu,Spaniards,21375,45.5
+2015,9,Sant Andreu,61,la Sagrera,Spaniards,10168,47.9
+2015,9,Sant Andreu,62,el Congrés i els Indians,Spaniards,5131,48.4
+2015,9,Sant Andreu,63,Navas,Spaniards,7656,48.6
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Spaniards,13444,48.6
+2015,10,Sant Martí,65,el Clot,Spaniards,9112,46.0
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Spaniards,4778,47.0
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Spaniards,2718,41.4
+2015,10,Sant Martí,68,el Poblenou,Spaniards,10824,43.8
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Spaniards,4310,41.2
+2015,10,Sant Martí,70,el Besòs i el Maresme,Spaniards,6607,47.5
+2015,10,Sant Martí,71,Provençals del Poblenou,Spaniards,6911,44.6
+2015,10,Sant Martí,72,Sant Martí de Provençals,Spaniards,9377,48.7
+2015,10,Sant Martí,73,la Verneda i la Pau,Spaniards,10203,49.0
+2015,1,Ciutat Vella,1,el Raval,Foreigners,4339,31.7
+2015,1,Ciutat Vella,2,el Barri Gòtic,Foreigners,1767,32.8
+2015,1,Ciutat Vella,3,la Barceloneta,Foreigners,1514,33.0
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Foreigners,2485,32.5
+2015,2,Eixample,5,el Fort Pienc,Foreigners,1284,31.4
+2015,2,Eixample,6,la Sagrada Família,Foreigners,1898,32.1
+2015,2,Eixample,7,la Dreta de l'Eixample,Foreigners,2270,33.3
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Foreigners,2025,33.4
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Foreigners,2122,32.7
+2015,2,Eixample,10,Sant Antoni,Foreigners,1573,32.5
+2015,3,Sants-Montjuïc,11,el Poble Sec,Foreigners,2293,31.8
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Foreigners,19,36.6
+2015,3,Sants-Montjuïc,13,la Marina de Port,Foreigners,633,31.0
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Foreigners,384,32.2
+2015,3,Sants-Montjuïc,15,Hostafrancs,Foreigners,672,32.1
+2015,3,Sants-Montjuïc,16,la Bordeta,Foreigners,384,32.0
+2015,3,Sants-Montjuïc,17,Sants - Badal,Foreigners,671,31.3
+2015,3,Sants-Montjuïc,18,Sants,Foreigners,1272,32.5
+2015,4,Les Corts,19,les Corts,Foreigners,1058,33.0
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Foreigners,504,31.6
+2015,4,Les Corts,21,Pedralbes,Foreigners,418,33.1
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Foreigners,118,31.5
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Foreigners,649,33.2
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Foreigners,278,36.1
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Foreigners,555,34.0
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Foreigners,1259,34.5
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Foreigners,948,33.4
+2015,6,Gràcia,28,Vallcarca i els Penitents,Foreigners,447,33.0
+2015,6,Gràcia,29,el Coll,Foreigners,224,32.7
+2015,6,Gràcia,30,la Salut,Foreigners,355,33.1
+2015,6,Gràcia,31,la Vila de Gràcia,Foreigners,2571,32.1
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Foreigners,971,32.0
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Foreigners,649,32.1
+2015,7,Horta-Guinardó,34,Can Baró,Foreigners,246,31.3
+2015,7,Horta-Guinardó,35,el Guinardó,Foreigners,867,32.0
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Foreigners,83,31.7
+2015,7,Horta-Guinardó,37,el Carmel,Foreigners,695,31.2
+2015,7,Horta-Guinardó,38,la Teixonera,Foreigners,251,31.6
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Foreigners,138,33.8
+2015,7,Horta-Guinardó,40,Montbau,Foreigners,96,31.0
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Foreigners,79,29.4
+2015,7,Horta-Guinardó,42,la Clota,Foreigners,11,33.0
+2015,7,Horta-Guinardó,43,Horta,Foreigners,392,30.9
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Foreigners,510,32.0
+2015,8,Nou Barris,45,Porta,Foreigners,472,31.8
+2015,8,Nou Barris,46,el Turó de la Peira,Foreigners,394,31.1
+2015,8,Nou Barris,47,Can Peguera,Foreigners,19,33.3
+2015,8,Nou Barris,48,la Guineueta,Foreigners,141,31.8
+2015,8,Nou Barris,49,Canyelles,Foreigners,44,35.3
+2015,8,Nou Barris,50,les Roquetes,Foreigners,494,30.1
+2015,8,Nou Barris,51,Verdun,Foreigners,317,30.2
+2015,8,Nou Barris,52,la Prosperitat,Foreigners,537,31.3
+2015,8,Nou Barris,53,la Trinitat Nova,Foreigners,197,30.5
+2015,8,Nou Barris,54,Torre Baró,Foreigners,65,28.6
+2015,8,Nou Barris,55,Ciutat Meridiana,Foreigners,398,29.7
+2015,8,Nou Barris,56,Vallbona,Foreigners,24,37.8
+2015,9,Sant Andreu,57,la Trinitat Vella,Foreigners,430,30.5
+2015,9,Sant Andreu,58,Baró de Viver,Foreigners,34,29.6
+2015,9,Sant Andreu,59,el Bon Pastor,Foreigners,251,32.1
+2015,9,Sant Andreu,60,Sant Andreu,Foreigners,608,32.1
+2015,9,Sant Andreu,61,la Sagrera,Foreigners,535,31.8
+2015,9,Sant Andreu,62,el Congrés i els Indians,Foreigners,280,31.4
+2015,9,Sant Andreu,63,Navas,Foreigners,468,32.0
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Foreigners,1146,32.4
+2015,10,Sant Martí,65,el Clot,Foreigners,686,32.8
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Foreigners,590,31.4
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Foreigners,392,33.8
+2015,10,Sant Martí,68,el Poblenou,Foreigners,1300,32.3
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Foreigners,556,32.1
+2015,10,Sant Martí,70,el Besòs i el Maresme,Foreigners,885,31.0
+2015,10,Sant Martí,71,Provençals del Poblenou,Foreigners,536,31.0
+2015,10,Sant Martí,72,Sant Martí de Provençals,Foreigners,453,31.3
+2015,10,Sant Martí,73,la Verneda i la Pau,Foreigners,444,31.2
+2015,1,Ciutat Vella,1,el Raval,Mixed,3622,33.6
+2015,1,Ciutat Vella,2,el Barri Gòtic,Mixed,1149,35.8
+2015,1,Ciutat Vella,3,la Barceloneta,Mixed,894,36.2
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Mixed,1664,34.2
+2015,2,Eixample,5,el Fort Pienc,Mixed,1528,36.1
+2015,2,Eixample,6,la Sagrada Família,Mixed,2419,36.4
+2015,2,Eixample,7,la Dreta de l'Eixample,Mixed,2207,37.4
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Mixed,2141,37.0
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Mixed,2547,36.1
+2015,2,Eixample,10,Sant Antoni,Mixed,2005,35.5
+2015,3,Sants-Montjuïc,11,el Poble Sec,Mixed,2608,34.0
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Mixed,25,36.4
+2015,3,Sants-Montjuïc,13,la Marina de Port,Mixed,1081,33.8
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Mixed,482,36.8
+2015,3,Sants-Montjuïc,15,Hostafrancs,Mixed,806,34.9
+2015,3,Sants-Montjuïc,16,la Bordeta,Mixed,656,34.6
+2015,3,Sants-Montjuïc,17,Sants - Badal,Mixed,1026,34.6
+2015,3,Sants-Montjuïc,18,Sants,Mixed,1819,35.4
+2015,4,Les Corts,19,les Corts,Mixed,1402,37.8
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Mixed,729,36.1
+2015,4,Les Corts,21,Pedralbes,Mixed,373,39.3
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Mixed,193,35.7
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Mixed,787,36.7
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Mixed,509,35.6
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Mixed,852,37.9
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Mixed,1758,37.6
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Mixed,1167,36.3
+2015,6,Gràcia,28,Vallcarca i els Penitents,Mixed,582,35.8
+2015,6,Gràcia,29,el Coll,Mixed,307,33.6
+2015,6,Gràcia,30,la Salut,Mixed,505,36.9
+2015,6,Gràcia,31,la Vila de Gràcia,Mixed,2604,35.7
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Mixed,1269,35.7
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Mixed,965,37.0
+2015,7,Horta-Guinardó,34,Can Baró,Mixed,342,34.1
+2015,7,Horta-Guinardó,35,el Guinardó,Mixed,1473,35.0
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Mixed,203,35.5
+2015,7,Horta-Guinardó,37,el Carmel,Mixed,1059,32.1
+2015,7,Horta-Guinardó,38,la Teixonera,Mixed,397,34.0
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Mixed,221,35.5
+2015,7,Horta-Guinardó,40,Montbau,Mixed,142,39.3
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Mixed,132,42.9
+2015,7,Horta-Guinardó,42,la Clota,Mixed,21,27.1
+2015,7,Horta-Guinardó,43,Horta,Mixed,703,37.0
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Mixed,877,34.3
+2015,8,Nou Barris,45,Porta,Mixed,926,34.2
+2015,8,Nou Barris,46,el Turó de la Peira,Mixed,816,32.0
+2015,8,Nou Barris,47,Can Peguera,Mixed,68,32.1
+2015,8,Nou Barris,48,la Guineueta,Mixed,341,35.6
+2015,8,Nou Barris,49,Canyelles,Mixed,108,35.1
+2015,8,Nou Barris,50,les Roquetes,Mixed,645,31.9
+2015,8,Nou Barris,51,Verdun,Mixed,506,32.6
+2015,8,Nou Barris,52,la Prosperitat,Mixed,850,32.7
+2015,8,Nou Barris,53,la Trinitat Nova,Mixed,282,32.3
+2015,8,Nou Barris,54,Torre Baró,Mixed,131,30.3
+2015,8,Nou Barris,55,Ciutat Meridiana,Mixed,549,29.9
+2015,8,Nou Barris,56,Vallbona,Mixed,47,30.0
+2015,9,Sant Andreu,57,la Trinitat Vella,Mixed,534,30.8
+2015,9,Sant Andreu,58,Baró de Viver,Mixed,83,30.7
+2015,9,Sant Andreu,59,el Bon Pastor,Mixed,384,34.5
+2015,9,Sant Andreu,60,Sant Andreu,Mixed,1380,35.1
+2015,9,Sant Andreu,61,la Sagrera,Mixed,1027,34.2
+2015,9,Sant Andreu,62,el Congrés i els Indians,Mixed,505,35.0
+2015,9,Sant Andreu,63,Navas,Mixed,836,35.5
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Mixed,1644,35.4
+2015,10,Sant Martí,65,el Clot,Mixed,980,34.7
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Mixed,665,33.0
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Mixed,391,33.8
+2015,10,Sant Martí,68,el Poblenou,Mixed,1443,34.2
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Mixed,546,33.6
+2015,10,Sant Martí,70,el Besòs i el Maresme,Mixed,926,32.2
+2015,10,Sant Martí,71,Provençals del Poblenou,Mixed,646,33.7
+2015,10,Sant Martí,72,Sant Martí de Provençals,Mixed,759,36.2
+2015,10,Sant Martí,73,la Verneda i la Pau,Mixed,762,33.8
+2014,1,Ciutat Vella,1,el Raval,Spaniards,8892,48.0
+2014,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3665,50.2
+2014,1,Ciutat Vella,3,la Barceloneta,Spaniards,4498,50.1
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Spaniards,5747,50.0
+2014,2,Eixample,5,el Fort Pienc,Spaniards,10116,49.7
+2014,2,Eixample,6,la Sagrada Família,Spaniards,17651,48.1
+2014,2,Eixample,7,la Dreta de l'Eixample,Spaniards,13919,48.9
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Spaniards,13978,47.8
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Spaniards,19799,48.4
+2014,2,Eixample,10,Sant Antoni,Spaniards,12837,48.5
+2014,3,Sants-Montjuïc,11,el Poble Sec,Spaniards,11218,49.8
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Spaniards,398,49.0
+2014,3,Sants-Montjuïc,13,la Marina de Port,Spaniards,10085,45.3
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Spaniards,3434,45.3
+2014,3,Sants-Montjuïc,15,Hostafrancs,Spaniards,5091,48.6
+2014,3,Sants-Montjuïc,16,la Bordeta,Spaniards,6419,47.8
+2014,3,Sants-Montjuïc,17,Sants - Badal,Spaniards,8285,47.7
+2014,3,Sants-Montjuïc,18,Sants,Spaniards,14117,48.3
+2014,4,Les Corts,19,les Corts,Spaniards,16491,47.8
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Spaniards,8332,47.6
+2014,4,Les Corts,21,Pedralbes,Spaniards,3419,48.0
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Spaniards,1251,46.8
+2014,5,Sarrià-Sant Gervasi,23,Sarrià,Spaniards,7368,41.3
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Spaniards,4764,43.7
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Spaniards,7879,42.9
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Spaniards,15430,44.6
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Spaniards,9973,45.5
+2014,6,Gràcia,28,Vallcarca i els Penitents,Spaniards,5404,45.1
+2014,6,Gràcia,29,el Coll,Spaniards,2510,46.9
+2014,6,Gràcia,30,la Salut,Spaniards,4574,45.9
+2014,6,Gràcia,31,la Vila de Gràcia,Spaniards,17636,47.6
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Spaniards,12483,47.2
+2014,7,Horta-Guinardó,33,el Baix Guinardó,Spaniards,9193,47.9
+2014,7,Horta-Guinardó,34,Can Baró,Spaniards,3180,48.6
+2014,7,Horta-Guinardó,35,el Guinardó,Spaniards,12821,47.9
+2014,7,Horta-Guinardó,36,la Font d'en Fargues,Spaniards,3406,47.7
+2014,7,Horta-Guinardó,37,el Carmel,Spaniards,11018,45.7
+2014,7,Horta-Guinardó,38,la Teixonera,Spaniards,4063,46.8
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Spaniards,2479,46.7
+2014,7,Horta-Guinardó,40,Montbau,Spaniards,1861,49.8
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Spaniards,1961,52.2
+2014,7,Horta-Guinardó,42,la Clota,Spaniards,193,48.1
+2014,7,Horta-Guinardó,43,Horta,Spaniards,9626,43.4
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Spaniards,9088,47.8
+2014,8,Nou Barris,45,Porta,Spaniards,8791,48.7
+2014,8,Nou Barris,46,el Turó de la Peira,Spaniards,4965,49.4
+2014,8,Nou Barris,47,Can Peguera,Spaniards,845,51.7
+2014,8,Nou Barris,48,la Guineueta,Spaniards,5698,46.7
+2014,8,Nou Barris,49,Canyelles,Spaniards,2653,48.8
+2014,8,Nou Barris,50,les Roquetes,Spaniards,4726,47.3
+2014,8,Nou Barris,51,Verdun,Spaniards,4265,44.9
+2014,8,Nou Barris,52,la Prosperitat,Spaniards,9351,48.4
+2014,8,Nou Barris,53,la Trinitat Nova,Spaniards,2446,48.6
+2014,8,Nou Barris,54,Torre Baró,Spaniards,716,47.1
+2014,8,Nou Barris,55,Ciutat Meridiana,Spaniards,2610,41.1
+2014,8,Nou Barris,56,Vallbona,Spaniards,395,47.0
+2014,9,Sant Andreu,57,la Trinitat Vella,Spaniards,2512,42.9
+2014,9,Sant Andreu,58,Baró de Viver,Spaniards,847,44.7
+2014,9,Sant Andreu,59,el Bon Pastor,Spaniards,4012,42.6
+2014,9,Sant Andreu,60,Sant Andreu,Spaniards,21337,42.5
+2014,9,Sant Andreu,61,la Sagrera,Spaniards,10116,45.3
+2014,9,Sant Andreu,62,el Congrés i els Indians,Spaniards,5120,47.8
+2014,9,Sant Andreu,63,Navas,Spaniards,7671,48.6
+2014,10,Sant Martí,64,el Camp de l'Arpa del Clot,Spaniards,13508,48.5
+2014,10,Sant Martí,65,el Clot,Spaniards,9148,48.4
+2014,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Spaniards,4813,45.6
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Spaniards,2698,46.8
+2014,10,Sant Martí,68,el Poblenou,Spaniards,10800,41.0
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Spaniards,4294,44.0
+2014,10,Sant Martí,70,el Besòs i el Maresme,Spaniards,6646,40.9
+2014,10,Sant Martí,71,Provençals del Poblenou,Spaniards,6863,47.3
+2014,10,Sant Martí,72,Sant Martí de Provençals,Spaniards,9429,44.4
+2014,10,Sant Martí,73,la Verneda i la Pau,Spaniards,10256,48.6
+2014,1,Ciutat Vella,1,el Raval,Foreigners,4423,30.3
+2014,1,Ciutat Vella,2,el Barri Gòtic,Foreigners,1800,31.7
+2014,1,Ciutat Vella,3,la Barceloneta,Foreigners,1470,32.8
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Foreigners,2581,32.9
+2014,2,Eixample,5,el Fort Pienc,Foreigners,1368,32.5
+2014,2,Eixample,6,la Sagrada Família,Foreigners,1912,31.6
+2014,2,Eixample,7,la Dreta de l'Eixample,Foreigners,2350,32.3
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Foreigners,2112,33.3
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Foreigners,2163,33.5
+2014,2,Eixample,10,Sant Antoni,Foreigners,1603,32.7
+2014,3,Sants-Montjuïc,11,el Poble Sec,Foreigners,2309,32.2
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Foreigners,18,31.6
+2014,3,Sants-Montjuïc,13,la Marina de Port,Foreigners,650,31.4
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Foreigners,410,30.5
+2014,3,Sants-Montjuïc,15,Hostafrancs,Foreigners,692,31.8
+2014,3,Sants-Montjuïc,16,la Bordeta,Foreigners,419,31.8
+2014,3,Sants-Montjuïc,17,Sants - Badal,Foreigners,714,31.8
+2014,3,Sants-Montjuïc,18,Sants,Foreigners,1306,31.2
+2014,4,Les Corts,19,les Corts,Foreigners,1092,32.0
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Foreigners,503,33.0
+2014,4,Les Corts,21,Pedralbes,Foreigners,408,31.4
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Foreigners,121,33.4
+2014,5,Sarrià-Sant Gervasi,23,Sarrià,Foreigners,676,32.0
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Foreigners,299,33.2
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Foreigners,576,35.1
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Foreigners,1287,34.4
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Foreigners,996,34.3
+2014,6,Gràcia,28,Vallcarca i els Penitents,Foreigners,446,33.7
+2014,6,Gràcia,29,el Coll,Foreigners,222,32.8
+2014,6,Gràcia,30,la Salut,Foreigners,360,32.3
+2014,6,Gràcia,31,la Vila de Gràcia,Foreigners,2669,32.9
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Foreigners,1003,32.0
+2014,7,Horta-Guinardó,33,el Baix Guinardó,Foreigners,687,32.6
+2014,7,Horta-Guinardó,34,Can Baró,Foreigners,261,32.1
+2014,7,Horta-Guinardó,35,el Guinardó,Foreigners,870,30.7
+2014,7,Horta-Guinardó,36,la Font d'en Fargues,Foreigners,90,31.8
+2014,7,Horta-Guinardó,37,el Carmel,Foreigners,711,30.6
+2014,7,Horta-Guinardó,38,la Teixonera,Foreigners,265,30.9
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Foreigners,144,31.0
+2014,7,Horta-Guinardó,40,Montbau,Foreigners,95,32.7
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Foreigners,86,30.6
+2014,7,Horta-Guinardó,42,la Clota,Foreigners,15,30.1
+2014,7,Horta-Guinardó,43,Horta,Foreigners,406,27.2
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Foreigners,471,31.5
+2014,8,Nou Barris,45,Porta,Foreigners,509,31.4
+2014,8,Nou Barris,46,el Turó de la Peira,Foreigners,426,31.1
+2014,8,Nou Barris,47,Can Peguera,Foreigners,20,31.5
+2014,8,Nou Barris,48,la Guineueta,Foreigners,135,32.6
+2014,8,Nou Barris,49,Canyelles,Foreigners,48,32.3
+2014,8,Nou Barris,50,les Roquetes,Foreigners,509,32.4
+2014,8,Nou Barris,51,Verdun,Foreigners,321,29.8
+2014,8,Nou Barris,52,la Prosperitat,Foreigners,548,30.2
+2014,8,Nou Barris,53,la Trinitat Nova,Foreigners,204,31.0
+2014,8,Nou Barris,54,Torre Baró,Foreigners,63,30.1
+2014,8,Nou Barris,55,Ciutat Meridiana,Foreigners,430,29.4
+2014,8,Nou Barris,56,Vallbona,Foreigners,29,29.7
+2014,9,Sant Andreu,57,la Trinitat Vella,Foreigners,470,32.9
+2014,9,Sant Andreu,58,Baró de Viver,Foreigners,37,30.4
+2014,9,Sant Andreu,59,el Bon Pastor,Foreigners,270,30.4
+2014,9,Sant Andreu,60,Sant Andreu,Foreigners,637,31.2
+2014,9,Sant Andreu,61,la Sagrera,Foreigners,513,31.9
+2014,9,Sant Andreu,62,el Congrés i els Indians,Foreigners,290,31.9
+2014,9,Sant Andreu,63,Navas,Foreigners,487,31.8
+2014,10,Sant Martí,64,el Camp de l'Arpa del Clot,Foreigners,1152,31.7
+2014,10,Sant Martí,65,el Clot,Foreigners,699,32.6
+2014,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Foreigners,630,32.6
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Foreigners,419,31.5
+2014,10,Sant Martí,68,el Poblenou,Foreigners,1292,33.6
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Foreigners,578,32.2
+2014,10,Sant Martí,70,el Besòs i el Maresme,Foreigners,866,32.0
+2014,10,Sant Martí,71,Provençals del Poblenou,Foreigners,532,30.5
+2014,10,Sant Martí,72,Sant Martí de Provençals,Foreigners,453,31.0
+2014,10,Sant Martí,73,la Verneda i la Pau,Foreigners,438,31.1
+2014,1,Ciutat Vella,1,el Raval,Mixed,3685,31.6
+2014,1,Ciutat Vella,2,el Barri Gòtic,Mixed,1173,33.3
+2014,1,Ciutat Vella,3,la Barceloneta,Mixed,913,35.6
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Mixed,1693,35.5
+2014,2,Eixample,5,el Fort Pienc,Mixed,1494,34.2
+2014,2,Eixample,6,la Sagrada Família,Mixed,2456,36.6
+2014,2,Eixample,7,la Dreta de l'Eixample,Mixed,2249,36.4
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Mixed,2192,37.2
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Mixed,2599,36.7
+2014,2,Eixample,10,Sant Antoni,Mixed,2019,36.0
+2014,3,Sants-Montjuïc,11,el Poble Sec,Mixed,2565,35.3
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Mixed,31,33.9
+2014,3,Sants-Montjuïc,13,la Marina de Port,Mixed,1049,35.4
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Mixed,491,33.6
+2014,3,Sants-Montjuïc,15,Hostafrancs,Mixed,796,35.8
+2014,3,Sants-Montjuïc,16,la Bordeta,Mixed,667,34.5
+2014,3,Sants-Montjuïc,17,Sants - Badal,Mixed,1013,33.9
+2014,3,Sants-Montjuïc,18,Sants,Mixed,1884,34.6
+2014,4,Les Corts,19,les Corts,Mixed,1456,35.1
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Mixed,774,37.7
+2014,4,Les Corts,21,Pedralbes,Mixed,397,35.6
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Mixed,196,39.2
+2014,5,Sarrià-Sant Gervasi,23,Sarrià,Mixed,835,37.1
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Mixed,507,36.6
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Mixed,881,35.8
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Mixed,1781,38.0
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Mixed,1179,37.9
+2014,6,Gràcia,28,Vallcarca i els Penitents,Mixed,602,36.6
+2014,6,Gràcia,29,el Coll,Mixed,313,35.1
+2014,6,Gràcia,30,la Salut,Mixed,501,33.9
+2014,6,Gràcia,31,la Vila de Gràcia,Mixed,2634,36.6
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Mixed,1309,35.0
+2014,7,Horta-Guinardó,33,el Baix Guinardó,Mixed,974,35.5
+2014,7,Horta-Guinardó,34,Can Baró,Mixed,316,37.6
+2014,7,Horta-Guinardó,35,el Guinardó,Mixed,1418,34.0
+2014,7,Horta-Guinardó,36,la Font d'en Fargues,Mixed,196,34.5
+2014,7,Horta-Guinardó,37,el Carmel,Mixed,1064,36.9
+2014,7,Horta-Guinardó,38,la Teixonera,Mixed,401,31.7
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Mixed,236,33.3
+2014,7,Horta-Guinardó,40,Montbau,Mixed,153,34.7
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Mixed,140,34.9
+2014,7,Horta-Guinardó,42,la Clota,Mixed,18,42.9
+2014,7,Horta-Guinardó,43,Horta,Mixed,690,33.4
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Mixed,883,36.3
+2014,8,Nou Barris,45,Porta,Mixed,875,34.2
+2014,8,Nou Barris,46,el Turó de la Peira,Mixed,798,34.3
+2014,8,Nou Barris,47,Can Peguera,Mixed,68,31.8
+2014,8,Nou Barris,48,la Guineueta,Mixed,345,31.5
+2014,8,Nou Barris,49,Canyelles,Mixed,109,35.4
+2014,8,Nou Barris,50,les Roquetes,Mixed,634,35.2
+2014,8,Nou Barris,51,Verdun,Mixed,470,31.3
+2014,8,Nou Barris,52,la Prosperitat,Mixed,821,31.9
+2014,8,Nou Barris,53,la Trinitat Nova,Mixed,275,32.1
+2014,8,Nou Barris,54,Torre Baró,Mixed,115,31.6
+2014,8,Nou Barris,55,Ciutat Meridiana,Mixed,548,30.7
+2014,8,Nou Barris,56,Vallbona,Mixed,49,29.4
+2014,9,Sant Andreu,57,la Trinitat Vella,Mixed,524,31.6
+2014,9,Sant Andreu,58,Baró de Viver,Mixed,79,31.0
+2014,9,Sant Andreu,59,el Bon Pastor,Mixed,374,31.8
+2014,9,Sant Andreu,60,Sant Andreu,Mixed,1385,34.1
+2014,9,Sant Andreu,61,la Sagrera,Mixed,1061,35.4
+2014,9,Sant Andreu,62,el Congrés i els Indians,Mixed,509,34.1
+2014,9,Sant Andreu,63,Navas,Mixed,799,34.5
+2014,10,Sant Martí,64,el Camp de l'Arpa del Clot,Mixed,1629,34.9
+2014,10,Sant Martí,65,el Clot,Mixed,956,35.2
+2014,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Mixed,644,34.4
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Mixed,431,32.9
+2014,10,Sant Martí,68,el Poblenou,Mixed,1459,33.4
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Mixed,566,33.5
+2014,10,Sant Martí,70,el Besòs i el Maresme,Mixed,891,33.3
+2014,10,Sant Martí,71,Provençals del Poblenou,Mixed,659,32.2
+2014,10,Sant Martí,72,Sant Martí de Provençals,Mixed,741,33.5
+2014,10,Sant Martí,73,la Verneda i la Pau,Mixed,782,35.5
