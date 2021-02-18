@@ -1,0 +1,223 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Nacionalitat","Nombre"
+2015,1,"Ciutat Vella",1,"el Raval","Tots espanyols",8815
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Tots espanyols",3545
+2015,1,"Ciutat Vella",3,"la Barceloneta","Tots espanyols",4412
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Tots espanyols",5720
+2015,2,"Eixample",5,"el Fort Pienc","Tots espanyols",10068
+2015,2,"Eixample",6,"la Sagrada Família","Tots espanyols",17533
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Tots espanyols",13831
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Tots espanyols",13915
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Tots espanyols",19885
+2015,2,"Eixample",10,"Sant Antoni","Tots espanyols",12824
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Tots espanyols",11068
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Tots espanyols",398
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Tots espanyols",10058
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Tots espanyols",3414
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Tots espanyols",5076
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Tots espanyols",6478
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Tots espanyols",8236
+2015,3,"Sants-Montjuïc",18,"Sants","Tots espanyols",14112
+2015,4,"Les Corts",19,"les Corts","Tots espanyols",16544
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Tots espanyols",8426
+2015,4,"Les Corts",21,"Pedralbes","Tots espanyols",3434
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Tots espanyols",1254
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Tots espanyols",7407
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Tots espanyols",4793
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Tots espanyols",7945
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Tots espanyols",15499
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Tots espanyols",9994
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Tots espanyols",5432
+2015,6,"Gràcia",29,"el Coll","Tots espanyols",2538
+2015,6,"Gràcia",30,"la Salut","Tots espanyols",4537
+2015,6,"Gràcia",31,"la Vila de Gràcia","Tots espanyols",17652
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Tots espanyols",12540
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Tots espanyols",9161
+2015,7,"Horta-Guinardó",34,"Can Baró","Tots espanyols",3188
+2015,7,"Horta-Guinardó",35,"el Guinardó","Tots espanyols",12889
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Tots espanyols",3411
+2015,7,"Horta-Guinardó",37,"el Carmel","Tots espanyols",10951
+2015,7,"Horta-Guinardó",38,"la Teixonera","Tots espanyols",4039
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Tots espanyols",2436
+2015,7,"Horta-Guinardó",40,"Montbau","Tots espanyols",1868
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Tots espanyols",2066
+2015,7,"Horta-Guinardó",42,"la Clota","Tots espanyols",217
+2015,7,"Horta-Guinardó",43,"Horta","Tots espanyols",9566
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Tots espanyols",9104
+2015,8,"Nou Barris",45,"Porta","Tots espanyols",8745
+2015,8,"Nou Barris",46,"el Turó de la Peira","Tots espanyols",4943
+2015,8,"Nou Barris",47,"Can Peguera","Tots espanyols",839
+2015,8,"Nou Barris",48,"la Guineueta","Tots espanyols",5682
+2015,8,"Nou Barris",49,"Canyelles","Tots espanyols",2651
+2015,8,"Nou Barris",50,"les Roquetes","Tots espanyols",4697
+2015,8,"Nou Barris",51,"Verdun","Tots espanyols",4214
+2015,8,"Nou Barris",52,"la Prosperitat","Tots espanyols",9339
+2015,8,"Nou Barris",53,"la Trinitat Nova","Tots espanyols",2400
+2015,8,"Nou Barris",54,"Torre Baró","Tots espanyols",739
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Tots espanyols",2596
+2015,8,"Nou Barris",56,"Vallbona","Tots espanyols",407
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Tots espanyols",2507
+2015,9,"Sant Andreu",58,"Baró de Viver","Tots espanyols",836
+2015,9,"Sant Andreu",59,"el Bon Pastor","Tots espanyols",3983
+2015,9,"Sant Andreu",60,"Sant Andreu","Tots espanyols",21375
+2015,9,"Sant Andreu",61,"la Sagrera","Tots espanyols",10168
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Tots espanyols",5131
+2015,9,"Sant Andreu",63,"Navas","Tots espanyols",7656
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Tots espanyols",13444
+2015,10,"Sant Martí",65,"el Clot","Tots espanyols",9112
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Tots espanyols",4778
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Tots espanyols",2718
+2015,10,"Sant Martí",68,"el Poblenou","Tots espanyols",10824
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Tots espanyols",4310
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Tots espanyols",6607
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Tots espanyols",6911
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Tots espanyols",9377
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Tots espanyols",10203
+2015,99,"No consta",99,"No consta","Tots espanyols",0
+2015,1,"Ciutat Vella",1,"el Raval","Tots estrangers",4339
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Tots estrangers",1767
+2015,1,"Ciutat Vella",3,"la Barceloneta","Tots estrangers",1514
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Tots estrangers",2485
+2015,2,"Eixample",5,"el Fort Pienc","Tots estrangers",1284
+2015,2,"Eixample",6,"la Sagrada Família","Tots estrangers",1898
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Tots estrangers",2270
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Tots estrangers",2025
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Tots estrangers",2122
+2015,2,"Eixample",10,"Sant Antoni","Tots estrangers",1573
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Tots estrangers",2293
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Tots estrangers",19
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Tots estrangers",633
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Tots estrangers",384
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Tots estrangers",672
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Tots estrangers",384
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Tots estrangers",671
+2015,3,"Sants-Montjuïc",18,"Sants","Tots estrangers",1272
+2015,4,"Les Corts",19,"les Corts","Tots estrangers",1058
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Tots estrangers",504
+2015,4,"Les Corts",21,"Pedralbes","Tots estrangers",418
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Tots estrangers",118
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Tots estrangers",649
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Tots estrangers",278
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Tots estrangers",555
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Tots estrangers",1259
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Tots estrangers",948
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Tots estrangers",447
+2015,6,"Gràcia",29,"el Coll","Tots estrangers",224
+2015,6,"Gràcia",30,"la Salut","Tots estrangers",355
+2015,6,"Gràcia",31,"la Vila de Gràcia","Tots estrangers",2571
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Tots estrangers",971
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Tots estrangers",649
+2015,7,"Horta-Guinardó",34,"Can Baró","Tots estrangers",246
+2015,7,"Horta-Guinardó",35,"el Guinardó","Tots estrangers",867
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Tots estrangers",83
+2015,7,"Horta-Guinardó",37,"el Carmel","Tots estrangers",695
+2015,7,"Horta-Guinardó",38,"la Teixonera","Tots estrangers",251
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Tots estrangers",138
+2015,7,"Horta-Guinardó",40,"Montbau","Tots estrangers",96
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Tots estrangers",79
+2015,7,"Horta-Guinardó",42,"la Clota","Tots estrangers",11
+2015,7,"Horta-Guinardó",43,"Horta","Tots estrangers",392
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Tots estrangers",510
+2015,8,"Nou Barris",45,"Porta","Tots estrangers",472
+2015,8,"Nou Barris",46,"el Turó de la Peira","Tots estrangers",394
+2015,8,"Nou Barris",47,"Can Peguera","Tots estrangers",19
+2015,8,"Nou Barris",48,"la Guineueta","Tots estrangers",141
+2015,8,"Nou Barris",49,"Canyelles","Tots estrangers",44
+2015,8,"Nou Barris",50,"les Roquetes","Tots estrangers",494
+2015,8,"Nou Barris",51,"Verdun","Tots estrangers",317
+2015,8,"Nou Barris",52,"la Prosperitat","Tots estrangers",537
+2015,8,"Nou Barris",53,"la Trinitat Nova","Tots estrangers",197
+2015,8,"Nou Barris",54,"Torre Baró","Tots estrangers",65
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Tots estrangers",398
+2015,8,"Nou Barris",56,"Vallbona","Tots estrangers",24
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Tots estrangers",430
+2015,9,"Sant Andreu",58,"Baró de Viver","Tots estrangers",34
+2015,9,"Sant Andreu",59,"el Bon Pastor","Tots estrangers",251
+2015,9,"Sant Andreu",60,"Sant Andreu","Tots estrangers",608
+2015,9,"Sant Andreu",61,"la Sagrera","Tots estrangers",535
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Tots estrangers",280
+2015,9,"Sant Andreu",63,"Navas","Tots estrangers",468
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Tots estrangers",1146
+2015,10,"Sant Martí",65,"el Clot","Tots estrangers",686
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Tots estrangers",590
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Tots estrangers",392
+2015,10,"Sant Martí",68,"el Poblenou","Tots estrangers",1300
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Tots estrangers",556
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Tots estrangers",885
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Tots estrangers",536
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Tots estrangers",453
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Tots estrangers",444
+2015,99,"No consta",99,"No consta","Tots estrangers",0
+2015,1,"Ciutat Vella",1,"el Raval","Llars mixtes",3622
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Llars mixtes",1149
+2015,1,"Ciutat Vella",3,"la Barceloneta","Llars mixtes",894
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Llars mixtes",1664
+2015,2,"Eixample",5,"el Fort Pienc","Llars mixtes",1528
+2015,2,"Eixample",6,"la Sagrada Família","Llars mixtes",2419
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Llars mixtes",2207
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Llars mixtes",2141
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Llars mixtes",2547
+2015,2,"Eixample",10,"Sant Antoni","Llars mixtes",2005
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Llars mixtes",2608
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Llars mixtes",25
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Llars mixtes",1081
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Llars mixtes",482
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Llars mixtes",806
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Llars mixtes",656
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Llars mixtes",1026
+2015,3,"Sants-Montjuïc",18,"Sants","Llars mixtes",1819
+2015,4,"Les Corts",19,"les Corts","Llars mixtes",1402
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Llars mixtes",729
+2015,4,"Les Corts",21,"Pedralbes","Llars mixtes",373
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Llars mixtes",193
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Llars mixtes",787
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Llars mixtes",509
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Llars mixtes",852
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Llars mixtes",1758
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Llars mixtes",1167
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Llars mixtes",582
+2015,6,"Gràcia",29,"el Coll","Llars mixtes",307
+2015,6,"Gràcia",30,"la Salut","Llars mixtes",505
+2015,6,"Gràcia",31,"la Vila de Gràcia","Llars mixtes",2604
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Llars mixtes",1269
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Llars mixtes",965
+2015,7,"Horta-Guinardó",34,"Can Baró","Llars mixtes",342
+2015,7,"Horta-Guinardó",35,"el Guinardó","Llars mixtes",1473
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Llars mixtes",203
+2015,7,"Horta-Guinardó",37,"el Carmel","Llars mixtes",1059
+2015,7,"Horta-Guinardó",38,"la Teixonera","Llars mixtes",397
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Llars mixtes",221
+2015,7,"Horta-Guinardó",40,"Montbau","Llars mixtes",142
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Llars mixtes",132
+2015,7,"Horta-Guinardó",42,"la Clota","Llars mixtes",21
+2015,7,"Horta-Guinardó",43,"Horta","Llars mixtes",703
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Llars mixtes",877
+2015,8,"Nou Barris",45,"Porta","Llars mixtes",926
+2015,8,"Nou Barris",46,"el Turó de la Peira","Llars mixtes",816
+2015,8,"Nou Barris",47,"Can Peguera","Llars mixtes",68
+2015,8,"Nou Barris",48,"la Guineueta","Llars mixtes",341
+2015,8,"Nou Barris",49,"Canyelles","Llars mixtes",108
+2015,8,"Nou Barris",50,"les Roquetes","Llars mixtes",645
+2015,8,"Nou Barris",51,"Verdun","Llars mixtes",506
+2015,8,"Nou Barris",52,"la Prosperitat","Llars mixtes",850
+2015,8,"Nou Barris",53,"la Trinitat Nova","Llars mixtes",282
+2015,8,"Nou Barris",54,"Torre Baró","Llars mixtes",131
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Llars mixtes",549
+2015,8,"Nou Barris",56,"Vallbona","Llars mixtes",47
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Llars mixtes",534
+2015,9,"Sant Andreu",58,"Baró de Viver","Llars mixtes",83
+2015,9,"Sant Andreu",59,"el Bon Pastor","Llars mixtes",384
+2015,9,"Sant Andreu",60,"Sant Andreu","Llars mixtes",1380
+2015,9,"Sant Andreu",61,"la Sagrera","Llars mixtes",1027
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Llars mixtes",505
+2015,9,"Sant Andreu",63,"Navas","Llars mixtes",836
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Llars mixtes",1644
+2015,10,"Sant Martí",65,"el Clot","Llars mixtes",980
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Llars mixtes",665
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Llars mixtes",391
+2015,10,"Sant Martí",68,"el Poblenou","Llars mixtes",1443
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Llars mixtes",546
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Llars mixtes",926
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Llars mixtes",646
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Llars mixtes",759
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Llars mixtes",762
+2015,99,"No consta",99,"No consta","Llars mixtes",0
