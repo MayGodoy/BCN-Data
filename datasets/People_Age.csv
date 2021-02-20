@@ -1,4 +1,4 @@
-Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Gender,Nationality,Age,Amount
+Year,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Gender,Nationality,Age,Amount
 2019,1,Ciutat Vella,1,el Raval,Home,Espanyola,0-4 anys,438
 2019,1,Ciutat Vella,2,el Barri Gòtic,Home,Espanyola,0-4 anys,126
 2019,1,Ciutat Vella,3,la Barceloneta,Home,Espanyola,0-4 anys,123

@@ -1,4 +1,4 @@
-Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Censal_Section,Use,Description,Amount
+Year,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Censal_Section,Use,Description,Amount
 2019,1,Ciutat Vella,1,el Raval,1,Habitatge,Nombre,819.0
 2019,1,Ciutat Vella,1,el Raval,1,Aparcaments,Nombre,98.0
 2019,1,Ciutat Vella,1,el Raval,1,Comerç,Nombre,50.0

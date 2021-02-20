@@ -1,4 +1,4 @@
-Year,Trimester,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Description,Price,Type
+Year,Trimester,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Description,Price,Type
 2019,1,1,Ciutat Vella,1,el Raval,Thousands of Euros,236.7,Total
 2019,1,1,Ciutat Vella,2,el Barri Gòtic,Thousands of Euros,411.7,Total
 2019,1,1,Ciutat Vella,3,la Barceloneta,Thousands of Euros,215.6,Total

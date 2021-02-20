@@ -1,4 +1,4 @@
-Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Nationality,Amount,Average_Age
+Year,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Nationality,Amount,AVG_Age
 2019,1,Ciutat Vella,1,el Raval,Spaniards,8025,50.2523276843727
 2019,1,Ciutat Vella,2,el Barri Gòtic,Spaniards,3105,51.082465124492295
 2019,1,Ciutat Vella,3,la Barceloneta,Spaniards,3896,50.566525871172104
