@@ -1,4 +1,4 @@
-Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Censal_Section,Average_Age,Average_Area
+Year,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Censal_Section,AVG_Age,AVG_Area
 2018,1,Ciutat Vella,1,el Raval,1,68.0,76.8
 2018,1,Ciutat Vella,1,el Raval,2,106.3,71.6
 2018,1,Ciutat Vella,1,el Raval,3,90.4,59.0

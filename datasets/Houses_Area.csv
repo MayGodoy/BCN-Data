@@ -1,4 +1,4 @@
-Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Censal_Section,Description,Amount
+Year,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Censal_Section,Description,Amount
 2019,1,Ciutat Vella,1,el Raval,1,Fins a 30 m2,111
 2019,1,Ciutat Vella,1,el Raval,1,31- 60 m2,324
 2019,1,Ciutat Vella,1,el Raval,1,61- 90 m2,222

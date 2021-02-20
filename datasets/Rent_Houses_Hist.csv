@@ -1,4 +1,4 @@
-Year,Trimester,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Description,Price
+Year,Trimester,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Description,Price
 2019,1,1,Ciutat Vella,1,el Raval,Average Euros/month,822.6
 2019,1,1,Ciutat Vella,2,el Barri Gòtic,Average Euros/month,1060.9
 2019,1,1,Ciutat Vella,3,la Barceloneta,Average Euros/month,891.3

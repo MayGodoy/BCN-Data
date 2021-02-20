@@ -1,4 +1,4 @@
-Year,Code_District,Name_Dist,Code_NBHD,Name_NBHD,Population,Total_Area(ha),Residential_Area(ha),Density(hab/ha),Real_Density(hab/ha)
+Year,Code_Dist,Name_Dist,Code_NBHD,Name_NBHD,Population,Total_Area(ha),Residential_Area(ha),Density(hab/ha),Real_Density(hab/ha)
 2019,1,Ciutat Vella,1,el Raval,47353,110.0,49.6,430,955
 2019,1,Ciutat Vella,2,el Barri Gòtic,18629,81.6,34.1,228,546
 2019,1,Ciutat Vella,3,la Barceloneta,14857,109.5,13.5,136,1097
